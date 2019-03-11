@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GoTLegends-3489.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\GoTLegends\Intermediate\Build\Win64\UE4Editor\Development\GoTLegends\GoTLegends.cpp.obj"
+"E:\GoTLegends\Intermediate\Build\Win64\UE4Editor\Development\GoTLegends\CPPClass.cpp.obj"
+"E:\GoTLegends\Intermediate\Build\Win64\UE4Editor\Development\GoTLegends\PCLaunch.rc.res"
+/OUT:"E:\GoTLegends\Intermediate\Build\Win64\UE4Editor\Development\GoTLegends\UE4Editor-GoTLegends-3489.lib"
