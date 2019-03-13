@@ -1,3 +1,0 @@
-E:\GoTLegends\Source\GoTLegends\GoTLegends.Build.cs
-E:\GoTLegends\Source\GoTLegends.Target.cs
-E:\GoTLegends\Source\GoTLegendsEditor.Target.cs
