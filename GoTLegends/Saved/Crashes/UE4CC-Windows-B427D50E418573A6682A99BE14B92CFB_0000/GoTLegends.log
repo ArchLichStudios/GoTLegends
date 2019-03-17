@@ -1,0 +1,1500 @@
+﻿Log file open, 03/16/19 17:21:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GoTLegends
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266677
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin GameSparks
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.264s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.16-21.21.04:318][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.16-21.21.04:318][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.16-21.21.04:327][  0]LogHAL: Display: Platform has ~ 32 GB [34286739456 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.16-21.21.04:327][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.16-21.21.04:327][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.16-21.21.04:327][  0]LogInit: Computer: DESKTOP-JPO613A
+[2019.03.16-21.21.04:327][  0]LogInit: User: tonym
+[2019.03.16-21.21.04:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.16-21.21.04:327][  0]LogInit: High frequency timer resolution =4.101564 MHz
+[2019.03.16-21.21.04:328][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.03.16-21.21.04:328][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.16-21.21.04:328][  0]LogMemory: Process Physical Memory: 100.40 MB used, 100.40 MB peak
+[2019.03.16-21.21.04:328][  0]LogMemory: Process Virtual Memory: 91.41 MB used, 91.41 MB peak
+[2019.03.16-21.21.04:328][  0]LogMemory: Physical Memory: 10531.21 MB used,  22167.17 MB free, 32698.38 MB total
+[2019.03.16-21.21.04:328][  0]LogMemory: Virtual Memory: 4646.52 MB used,  22167.17 MB free, 134217728.00 MB total
+[2019.03.16-21.21.04:897][  0]LogInit: Using OS detected language (en-US).
+[2019.03.16-21.21.04:897][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.16-21.21.04:897][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.16-21.21.05:204][  0]LogStreaming: Display: Took  0.309s to InitEngineTextLocalization.
+[2019.03.16-21.21.05:205][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.16-21.21.05:255][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.16-21.21.05:255][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.16-21.21.05:400][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.16-21.21.05:400][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.16-21.21.05:463][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.03.16-21.21.05:463][  0]LogD3D11RHI:       8079/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.16-21.21.05:512][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.03.16-21.21.05:512][  0]LogD3D11RHI:       8079/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2019.03.16-21.21.05:514][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.16-21.21.05:514][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.16-21.21.05:514][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.16-21.21.05:521][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.16-21.21.05:521][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.16-21.21.05:521][  0]LogWindows: EnumDisplayDevices:
+[2019.03.16-21.21.05:522][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.03.16-21.21.05:522][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.03.16-21.21.05:522][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:522][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:522][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:522][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:523][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:523][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.03.16-21.21.05:523][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.03.16-21.21.05:523][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.03.16-21.21.05:523][  0]LogD3D11RHI:   Driver Version: 417.71 (internal:25.21.14.1771, unified:417.71)
+[2019.03.16-21.21.05:523][  0]LogD3D11RHI:      Driver Date: 1-11-2019
+[2019.03.16-21.21.05:523][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.03.16-21.21.05:555][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.16-21.21.05:577][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.16-21.21.05:668][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (E:/GoTLegends/GoTLegends/Intermediate/Shaders/WorkingDirectory/26116/).
+[2019.03.16-21.21.05:668][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tonym/AppData/Local/Temp/UnrealShaderWorkingDir/40B9E4D647372AC3FE9398B230E9EC0B/'.
+[2019.03.16-21.21.05:876][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.16-21.21.05:885][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.16-21.21.05:894][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.16-21.21.05:907][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.16-21.21.05:916][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.16-21.21.05:925][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.16-21.21.05:936][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.16-21.21.05:946][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.16-21.21.05:950][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:008][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.16-21.21.06:009][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.16-21.21.06:067][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.16-21.21.06:067][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.16-21.21.06:086][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.16-21.21.06:086][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.16-21.21.06:094][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.16-21.21.06:108][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.16-21.21.06:117][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.16-21.21.06:127][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.16-21.21.06:134][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.16-21.21.06:134][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.16-21.21.06:175][  0]LogXGEController: Cleaning working directory: C:/Users/tonym/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.16-21.21.06:175][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.16-21.21.06:175][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.16-21.21.06:175][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.16-21.21.06:802][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/tonym/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tonym/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GoTLegends/GoTLegends/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GoTLegends/GoTLegends/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.16-21.21.06:849][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.16-21.21.06:861][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.16-21.21.06:874][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tonym/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.16-21.21.06:874][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.16-21.21.06:874][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.16-21.21.06:888][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.16-21.21.06:889][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.16-21.21.06:890][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.16-21.21.06:947][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2019.03.16-21.21.07:208][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.16-21.21.07:300][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.16-21.21.07:302][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.16-21.21.07:302][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.16-21.21.07:302][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.16-21.21.07:302][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.16-21.21.07:317][  0]LogNetVersion: GoTLegends 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3235657948)
+[2019.03.16-21.21.07:700][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.076492 seconds
+[2019.03.16-21.21.07:706][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.16-21.21.07:706][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.16-21.21.07:706][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.16-21.21.08:335][  0]UGameSparksModuleLog: Warning: GameSparks::StartupModule
+[2019.03.16-21.21.08:337][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.16-21.21.08:350][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.16-21.21.08:465][  0]SourceControl: Source control is disabled
+[2019.03.16-21.21.08:465][  0]SourceControl: Source control is disabled
+[2019.03.16-21.21.08:467][  0]SourceControl: Source control is disabled
+[2019.03.16-21.21.08:467][  0]SourceControl: Source control is disabled
+[2019.03.16-21.21.08:604][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.16-21.21.08:650][  0]LogOcInput: OculusInput pre-init called
+[2019.03.16-21.21.08:692][  0]LogEngine: Initializing Engine...
+[2019.03.16-21.21.08:693][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.16-21.21.08:694][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.16-21.21.08:694][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.16-21.21.08:694][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.16-21.21.08:694][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.16-21.21.08:854][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.16-21.21.08:864][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.16-21.21.08:915][  0]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.16-21.21.08:927][  0]LogInit: FAudioDevice initialized.
+[2019.03.16-21.21.08:927][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.16-21.21.09:018][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/tonym/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.16-21.21.09:021][  0]LogInit: Texture streaming: Enabled
+[2019.03.16-21.21.09:030][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.16-21.21.09:041][  0]LogInit: Transaction tracking system initialized
+[2019.03.16-21.21.09:051][  0]BlueprintLog: New page: Editor Load
+[2019.03.16-21.21.09:097][  0]LocalizationService: Localization service is disabled
+[2019.03.16-21.21.09:288][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.16-21.21.09:288][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.16-21.21.09:288][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.16-21.21.09:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.16-21.21.09:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.16-21.21.09:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.16-21.21.09:288][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.16-21.21.09:365][  0]LogFileCache: Scanning file cache for directory 'E:/GoTLegends/GoTLegends/Content/' took 0.01s
+[2019.03.16-21.21.09:365][  0]SourceControl: Source control is disabled
+[2019.03.16-21.21.09:365][  0]Cmd: MAP LOAD FILE="E:/GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.16-21.21.09:366][  0]LightingResults: New page: Lighting Build
+[2019.03.16-21.21.09:367][  0]MapCheck: New page: Map Check
+[2019.03.16-21.21.09:367][  0]LightingResults: New page: Lighting Build
+[2019.03.16-21.21.10:993][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.16-21.21.11:028][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.16-21.21.11:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.16-21.21.11:105][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.577ms to complete.
+[2019.03.16-21.21.11:105][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 1.740
+[2019.03.16-21.21.11:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-21.21.11:230][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-21.21.11:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-21.21.11:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-21.21.11:247][  0]LogCollectionManager: Loaded 0 collections in 0.000626 seconds
+[2019.03.16-21.21.11:289][  0]LogFileCache: Scanning file cache for directory 'E:/GoTLegends/GoTLegends/Saved/Collections/' took 0.01s
+[2019.03.16-21.21.11:289][  0]LogFileCache: Scanning file cache for directory 'E:/GoTLegends/GoTLegends/Content/Developers/tonym/Collections/' took 0.01s
+[2019.03.16-21.21.11:289][  0]LogFileCache: Scanning file cache for directory 'E:/GoTLegends/GoTLegends/Content/Collections/' took 0.01s
+[2019.03.16-21.21.11:289][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.16-21.21.11:296][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2672 classes and 607 folders.
+[2019.03.16-21.21.11:300][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.16-21.21.11:327][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.16-21.21.11:332][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.16-21.21.11:408][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.16-21.21.11:409][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.16-21.21.11:414][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.16-21.21.11:483][  0]LogRenderer: Reallocating scene render targets to support 1376x656 Format 10 NumSamples 1 (Frame:1).
+[2019.03.16-21.21.11:666][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.16-21.21.11:666][  0]LogLoad: (Engine Initialization) Total time: 8.83 seconds
+[2019.03.16-21.21.11:666][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.16-21.21.11:697][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.16-21.21.11:723][  1]LogAssetRegistry: Asset discovery search completed in 4.7979 seconds
+[2019.03.16-21.21.11:725][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.16-21.21.11:725][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2019.03.16-21.44.35:137][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-21.44.40:024][278]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.16-21.44.40:031][278]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_Social/Widget_HouseListIcons.Widget_HouseListIcons
+[2019.03.16-21.44.40:427][278]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.03.16-21.44.41:121][278]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.16-21.44.42:441][412]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.16-21.45.20:647][188]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.025
+[2019.03.16-21.45.20:649][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons] ([1] browsable assets)...
+[2019.03.16-21.45.20:649][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons]
+[2019.03.16-21.45.20:705][188]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseListIcons_Auto1E866BF8A4C6BF1230BEF55BBB9C420B9.tmp' to 'E:/GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/UI/Widgets_Social/Widget_HouseListIcons_Auto1.uasset'
+[2019.03.16-21.45.20:706][188]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.03.16-21.51.16:206][624]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Core/MasterClassBPs/CharDataHolder_MasterClass.CharDataHolder_MasterClass
+[2019.03.16-22.47.37:885][510]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.024
+[2019.03.16-22.47.37:886][510]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons] ([1] browsable assets)...
+[2019.03.16-22.47.37:886][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons]
+[2019.03.16-22.47.37:939][510]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseListIcons_Auto260660B4B4F85288DBA3F129572972E8B.tmp' to 'E:/GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/UI/Widgets_Social/Widget_HouseListIcons_Auto2.uasset'
+[2019.03.16-22.47.37:940][510]LogFileHelpers: Auto-saving content packages took 0.054
+[2019.03.16-23.03.46:297][821]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.16-23.03.46:317][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.03.46:317][821]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.16-23.03.46:337][821]LogPlayLevel: [PlayLevel] Compiling Widget_HouseList before play...
+[2019.03.16-23.03.46:346][821]LogPlayLevel: [PlayLevel]   Compiling Widget_HouseListIcons as a dependent...
+[2019.03.16-23.03.46:503][821]LogPlayLevel: PlayLevel: Blueprint regeneration took 186 ms (2 blueprints)
+[2019.03.16-23.03.46:515][821]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 3:03:46 PM)
+[2019.03.16-23.03.46:515][821]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.16-23.03.46:530][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015493s)
+[2019.03.16-23.03.46:531][821]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.16-23.03.46:531][821]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2019.03.16-23.03.46:531][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.016503s)
+[2019.03.16-23.03.46:568][821]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.16-23.03.46:578][821]LogInit: FAudioDevice initialized.
+[2019.03.16-23.03.46:619][821]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.16-23.03.46:621][821]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-19.03.46
+[2019.03.16-23.03.46:621][821]LogWorld: Bringing up level for play took: 0.001451
+[2019.03.16-23.03.46:639][821]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.03.16-23.03.46:639][821]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.16-23.03.46:640][821]UGameSparksModuleLog: Initialized
+[2019.03.16-23.03.46:644][821]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.109
+[2019.03.16-23.03.46:644][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.03.47:317][898]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se12.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.16-23.03.47:317][898]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.16-23.03.47:317][898]UGameSparksModuleLog: Create new connection
+[2019.03.16-23.03.47:318][898]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.03.47:319][898]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.16-23.03.47:319][898]UGameSparksModuleLog: WebSocket closed
+[2019.03.16-23.03.47:809][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.03.47:976][977]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"7592bd42-22c7-4155-ab64-9670af697b91","requestId":"0"}
+[2019.03.16-23.03.47:976][977]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.03.47:977][977]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"dDTybxCZ3zPIvB45JdmiqF56Nr3R5NEQXyats5Af+DY=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	}
+}
+[2019.03.16-23.03.47:977][977]UGameSparksModuleLog: Handshake request sent
+[2019.03.16-23.03.48:075][989]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.16-23.03.48:075][989]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.03.48:075][989]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.16-23.03.48:076][989]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.16-23.03.53:933][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.03.54:017][702]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1552777434_0"
+}
+[2019.03.16-23.03.54:126][715]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"42b027a2-b15b-49b5-adda-012b72e8b793","displayName":"tonymorgan92","newPlayer":false,"requestId":"1552777434_0","userId":"5c8ac6976379c8469eef7c87"}
+[2019.03.16-23.03.54:126][715]UGameSparksModuleLog: Received auth token
+[2019.03.16-23.03.54:129][715]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.16-23.03.54:129][715]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.16-23.03.54:286][734]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552777434_1"
+}
+[2019.03.16-23.03.54:387][746]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552777434_1","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"tonymorgan","externalIds":{ },"id":"5c8cb6f9a13e1905132f55c8","online":false},{"displayName":"testacc1","externalIds":{ },"id":"5c8cb7fbb4d7620517bf2646","online":false},{"displayName":"testacc2","externalIds":{ },"id":"5c8cb88ca13e1905132fb786","online":false},{"displayName":"testacc3","externalIds":{ },"id":"5c8cb936b4d7620517bf87ce","online":false},{"displayName":"testacc4","externalIds":{ },"id":"5c8cc614a13e19051333726a","online":false},{"displayName":"testacc6","externalIds":{ },"id":"5c8cc669156694053061ea7a","online":false},{"displayName":"tonymorgan1","externalIds":{ },"id":"5c8cc802a13e19051333f153","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.16-23.03.54:920][810]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552777434_2"
+}
+[2019.03.16-23.03.54:920][810]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8ac6976379c8469eef7c87",
+	"teamId":	"1",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552777434_3"
+}
+[2019.03.16-23.03.55:012][821]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552777434_2","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"tonymorgan","externalIds":{ },"id":"5c8cb6f9a13e1905132f55c8","online":false},{"displayName":"testacc1","externalIds":{ },"id":"5c8cb7fbb4d7620517bf2646","online":false},{"displayName":"testacc2","externalIds":{ },"id":"5c8cb88ca13e1905132fb786","online":false},{"displayName":"testacc3","externalIds":{ },"id":"5c8cb936b4d7620517bf87ce","online":false},{"displayName":"testacc4","externalIds":{ },"id":"5c8cc614a13e19051333726a","online":false},{"displayName":"testacc6","externalIds":{ },"id":"5c8cc669156694053061ea7a","online":false},{"displayName":"tonymorgan1","externalIds":{ },"id":"5c8cc802a13e19051333f153","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.16-23.03.55:020][822]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","messages":[{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f9db4d7620517e93bfc","message":"the website","when":1552760733421,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f9ab4d7620517e93b61","message":"as of right now they were created through","when":1552760730448,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f90b4d7620517e9397e","message":"actually creating a guild","when":1552760720100,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f8bb4d7620517e938ad","message":"now i need to make the widget for","when":1552760715674,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f7eb4d7620517e9336e","message":"sweet","when":1552760702755,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f7ab4d7620517e92bd2","message":"seems to!","when":1552760698891,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f65b4d7620517e92558","message":"it should remember what guild youre in","when":1552760677519,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f5eb4d7620517e923df","message":"log out and log back in","when":1552760670426,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f59b4d7620517e9230a","message":"now","when":1552760665325,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f53b4d7620517e921b0","message":"yep i was just thinking that too lmao","when":1552760659254,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f50a13e19051358c8fe","message":"mm :)","when":1552760656053,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f49b4d7620517e91fda","message":"to make sure it works","when":1552760649511,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f48a13e19051358c716","message":"and auto return to the chat box on enter","when":1552760648062,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f45b4d7620517e91eb7","message":"this was just a rough setup","when":1552760645254,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f3eb4d7620517e913f9","message":"yeah i plan on it","when":1552760638712,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f3ba13e19051358baaa","message":"background with transparency","when":1552760635260,"who":"Jackimedes"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f32a13e19051358b918","message":"you should probably put the chat box in a black","when":1552760626083,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f30b4d7620517e91103","message":"sweet","when":1552760624302,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f1ca13e19051358b64c","message":"yep it's just done that for me","when":1552760604367,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f19b4d7620517e90d6e","message":"fuck i need to wrap text","when":1552760601110,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f11b4d7620517e90b79","message":"once it gets low enough it should automatically scroll","when":1552760593972,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f10a13e19051358b408","message":"nice work","when":1552760592911,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f04b4d7620517e90096","message":":D","when":1552760580240,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3efaa13e19051358a574","message":"ooooo real time","when":1552760570974,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3efab4d7620517e8fdf9","message":"this is cool af","when":1552760570437,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3ef3b4d7620517e8fca1","message":"sick","when":1552760563792,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3eeea13e19051358a266","message":"I can see it","when":1552760558182,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3e3cb4d7620517e8bd24","message":"jack if you can see this let me know","when":1552760380786,"who":"tonymorgan92"},{"fromId":"5c8acd8947eb4e1e9842a355","id":"5c8cd002a13e1905133630e5","message":"chat is working","when":1552732162822,"who":"naddax"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8ccfe71566940530649f23","message":"testing to make sure chat works","when":1552732135507,"who":"tonymorgan92"}],"requestId":"1552777434_3"}
+[2019.03.16-23.04.02:737][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.04.03:355][821]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.04.03:355][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-23.04.03:391][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.16-23.04.03:391][821]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.04.03:414][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-23.04.03:466][823]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.03.16-23.04.34:469][440]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.026
+[2019.03.16-23.04.34:470][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons] ([1] browsable assets)...
+[2019.03.16-23.04.34:470][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/Widgets_Social/Widget_HouseListIcons]
+[2019.03.16-23.04.34:525][440]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseListIcons_Auto35DFF2A564101DCA7521B6D9218BD9CC3.tmp' to 'E:/GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/UI/Widgets_Social/Widget_HouseListIcons_Auto3.uasset'
+[2019.03.16-23.04.34:526][440]LogFileHelpers: Auto-saving content packages took 0.056
+[2019.03.16-23.05.01:938][623]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.16-23.05.01:945][623]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.03.16-23.05.10:336][613]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_MainMenu/Widget_MainMenu.Widget_MainMenu
+[2019.03.16-23.06.10:404][249]LogSlate: Took 0.001470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.16-23.06.31:068][432]BlueprintLog: New page: Compile Widget_MainMenu
+[2019.03.16-23.07.13:704][558]BlueprintLog: New page: Compile Widget_MainMenu
+[2019.03.16-23.07.16:514][755]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.16-23.07.16:534][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.07.16:534][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.16-23.07.16:534][755]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 3:07:16 PM)
+[2019.03.16-23.07.16:534][755]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.16-23.07.16:544][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009118s)
+[2019.03.16-23.07.16:544][755]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.16-23.07.16:544][755]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.03.16-23.07.16:544][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009799s)
+[2019.03.16-23.07.16:581][755]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.16-23.07.16:589][755]LogInit: FAudioDevice initialized.
+[2019.03.16-23.07.16:619][755]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.16-23.07.16:621][755]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-19.07.16
+[2019.03.16-23.07.16:621][755]LogWorld: Bringing up level for play took: 0.001182
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: Starting connection terminate
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: WebSocket closed
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: Connection terminated
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.16-23.07.16:633][755]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.16-23.07.16:633][755]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.16-23.07.16:634][755]UGameSparksModuleLog: Initialized
+[2019.03.16-23.07.16:637][755]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.103
+[2019.03.16-23.07.16:637][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.07.16:638][755]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.16-23.07.17:322][833]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se11.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.16-23.07.17:322][833]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.16-23.07.17:322][833]UGameSparksModuleLog: Create new connection
+[2019.03.16-23.07.17:322][833]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.07.17:323][833]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.16-23.07.17:323][833]UGameSparksModuleLog: WebSocket closed
+[2019.03.16-23.07.18:005][915]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"a21f9b35-a128-4a46-b2f1-67f5598674bf","requestId":"0"}
+[2019.03.16-23.07.18:005][915]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.07.18:006][915]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"u+JwfdgmZ+neI07A7Q2V3ITbEtdnp5f/APd8ObARUBM=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.16-23.07.18:006][915]UGameSparksModuleLog: Handshake request sent
+[2019.03.16-23.07.18:113][928]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.16-23.07.18:113][928]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.16-23.07.18:113][928]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.16-23.07.18:113][928]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.16-23.07.23:362][558]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1552777643_4"
+}
+[2019.03.16-23.07.23:463][570]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"81a99a00-f583-4f2b-9ce5-71fde52ea0e2","displayName":"tonymorgan92","newPlayer":false,"requestId":"1552777643_4","userId":"5c8ac6976379c8469eef7c87"}
+[2019.03.16-23.07.23:463][570]UGameSparksModuleLog: Received auth token
+[2019.03.16-23.07.23:466][570]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.16-23.07.23:467][570]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.16-23.07.23:523][577]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552777643_5"
+}
+[2019.03.16-23.07.23:623][589]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552777643_5","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"tonymorgan","externalIds":{ },"id":"5c8cb6f9a13e1905132f55c8","online":false},{"displayName":"testacc1","externalIds":{ },"id":"5c8cb7fbb4d7620517bf2646","online":false},{"displayName":"testacc2","externalIds":{ },"id":"5c8cb88ca13e1905132fb786","online":false},{"displayName":"testacc3","externalIds":{ },"id":"5c8cb936b4d7620517bf87ce","online":false},{"displayName":"testacc4","externalIds":{ },"id":"5c8cc614a13e19051333726a","online":false},{"displayName":"testacc6","externalIds":{ },"id":"5c8cc669156694053061ea7a","online":false},{"displayName":"tonymorgan1","externalIds":{ },"id":"5c8cc802a13e19051333f153","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.16-23.07.25:164][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.07.26:931][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.07.33:415][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.07.35:773][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.07.38:758][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.16-23.08.45:743][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.08.45:743][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-23.08.45:777][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.16-23.08.45:778][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.16-23.08.45:803][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.16-23.08.45:847][118]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.16-23.08.48:184][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/Widgets_MainMenu/Widget_MainMenu" FILE="E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_MainMenu/Widget_MainMenu.uasset" SILENT=true
+[2019.03.16-23.08.48:272][385]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_MainMenu3EF5FEA54029ED0C6FCC509673C1A112.tmp' to 'E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_MainMenu/Widget_MainMenu.uasset'
+[2019.03.16-23.08.48:278][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/Widgets_Social/Widget_HouseListIcons" FILE="E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_Social/Widget_HouseListIcons.uasset" SILENT=true
+[2019.03.16-23.08.48:325][385]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseListIconsD7EFA3314F67F9CB03458E9AF4A35529.tmp' to 'E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_Social/Widget_HouseListIcons.uasset'
+[2019.03.16-23.13.35:363][263]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_Social/Widget_HouseMenu.Widget_HouseMenu
+[2019.03.16-23.13.56:674][253]LogEditorTransaction: Undo Move Widget
+[2019.03.16-23.14.26:446][583]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.16-23.14.28:178][662]BlueprintLog: New page: Compile Widget_HouseMenu
+[2019.03.16-23.14.32:411][  3]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.03.16-23.14.33:720][  3]LogSlate: Window 'Save Content' being destroyed
+[2019.03.16-23.14.33:751][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/UI/Widgets_Social/Widget_HouseMenu" FILE="E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_Social/Widget_HouseMenu.uasset" SILENT=true
+[2019.03.16-23.14.33:830][  3]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseMenuA2D6A1F84F49F445389C17B040D42535.tmp' to 'E:/GoTLegends/GoTLegends/Content/Core/UI/Widgets_Social/Widget_HouseMenu.uasset'
+[2019.03.16-23.15.35:417][564]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.03.16-23.26.27:372][256]LogTemp: Repeating last play command: Mobile Preview ES2 (PIE)
+[2019.03.16-23.28.03:924][502]BlueprintLog: New page: Compile Widget_HouseMenu
+[2019.03.17-00.16.36:454][208]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_Social/Widget_HouseCreation.Widget_HouseCreation
+[2019.03.17-00.17.16:419][471]LogSlate: Window 'Color Picker' being destroyed
+[2019.03.17-00.21.28:149][354]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.23.35:305][630]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.23.44:668][627]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_Social/Widget_HouseMenuSelector.Widget_HouseMenuSelector
+[2019.03.17-00.24.07:812][552]BlueprintLog: New page: Compile Widget_HouseMenuSelector
+[2019.03.17-00.24.11:086][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.24.11:086][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.24.11:086][908]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:24:11 PM)
+[2019.03.17-00.24.11:086][908]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.24.11:095][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009445s)
+[2019.03.17-00.24.11:096][908]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.24.11:096][908]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.03.17-00.24.11:096][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010358s)
+[2019.03.17-00.24.11:139][908]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.24.11:147][908]LogInit: FAudioDevice initialized.
+[2019.03.17-00.24.11:179][908]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.24.11:181][908]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.24.11
+[2019.03.17-00.24.11:181][908]LogWorld: Bringing up level for play took: 0.001290
+[2019.03.17-00.24.11:193][908]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.24.11:193][908]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.24.11:193][908]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.24.11:193][908]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.24.11:193][908]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.24.11:194][908]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.24.11:194][908]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.24.11:194][908]UGameSparksModuleLog: Initialized
+[2019.03.17-00.24.11:199][908]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.664
+[2019.03.17-00.24.11:199][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.24.11:199][908]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.24.11:874][984]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se11.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.24.11:874][984]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.24.11:874][984]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.24.11:874][984]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.24.11:875][984]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.24.11:875][984]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.24.12:199][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.24.12:543][ 64]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"4390db3f-7721-4771-93c2-1c523e361617","requestId":"0"}
+[2019.03.17-00.24.12:543][ 64]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.24.12:543][ 64]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"hiSgvjEeCmYLp7SysO4BdR7PCLCai6/XHAhPdg4Jlws=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.24.12:543][ 64]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.24.12:642][ 76]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.24.12:642][ 76]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.24.12:642][ 76]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.24.12:642][ 76]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.24.23:317][356]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".RegistrationRequest",
+	"displayName":	"testacc1",
+	"password":	"S",
+	"userName":	"testacc1",
+	"requestId":	"1552782263_6"
+}
+[2019.03.17-00.24.23:468][374]UGameSparksModuleLog: WebSocket callback: {"@class":".RegistrationResponse","authToken":"a0ed008a-fc31-49e2-84f4-b5f75799a809","displayName":"testacc1","newPlayer":true,"requestId":"1552782263_6","userId":"5c8d93b5a13e19051375ff10"}
+[2019.03.17-00.24.23:468][374]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.24.23:670][398]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782263_7"
+}
+[2019.03.17-00.24.23:762][409]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782263_7"}
+[2019.03.17-00.24.27:987][909]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"S",
+	"userName":	"testacc1",
+	"requestId":	"1552782267_8"
+}
+[2019.03.17-00.24.28:088][921]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"b694b5ef-09fd-41ec-b5b1-a32d25cea67e","displayName":"testacc1","newPlayer":false,"requestId":"1552782267_8","userId":"5c8d93b5a13e19051375ff10"}
+[2019.03.17-00.24.28:088][921]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.24.28:091][921]LogBlueprintUserMessages: [GameSparksLogin_C_1] Welcome back testacc1
+[2019.03.17-00.24.28:091][921]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.24.29:359][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.24.39:936][339]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".CreateTeamRequest",
+	"teamId":	"856716",
+	"teamName":	"House Anteries",
+	"teamType":	"GUILD",
+	"requestId":	"1552782279_9"
+}
+[2019.03.17-00.24.40:035][351]UGameSparksModuleLog: WebSocket callback: {"@class":".CreateTeamResponse","requestId":"1552782279_9","members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}
+[2019.03.17-00.24.45:028][950]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782285_10"
+}
+[2019.03.17-00.24.45:120][961]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782285_10","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.24.49:559][493]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782289_11"
+}
+[2019.03.17-00.24.49:559][493]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d93b5a13e19051375ff10",
+	"teamId":	"856716",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782289_12"
+}
+[2019.03.17-00.24.49:659][505]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782289_11","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.24.49:667][506]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782289_12"}
+[2019.03.17-00.24.54:327][ 65]Cmd: LevelEditor.ToggleImmersive
+[2019.03.17-00.24.54:470][ 66]LogRenderer: Reallocating scene render targets to support 1548x768 Format 10 NumSamples 1 (Frame:5159).
+[2019.03.17-00.24.54:511][ 67]LogRenderer: Reallocating scene render targets to support 2200x1200 Format 10 NumSamples 1 (Frame:5161).
+[2019.03.17-00.24.54:517][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.17-00.24.55:133][141]Cmd: LevelEditor.ToggleImmersive
+[2019.03.17-00.24.55:379][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.17-00.24.56:276][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.24.56:276][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.24.56:307][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.24.56:308][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.24.56:344][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.24.56:396][256]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.17-00.24.57:765][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.25.11:956][918]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.17-00.25.41:825][902]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.25.45:325][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.25.45:357][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.25.45:357][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.25.45:357][249]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:25:45 PM)
+[2019.03.17-00.25.45:357][249]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.25.45:366][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008545s)
+[2019.03.17-00.25.45:367][249]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.25.45:367][249]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.03.17-00.25.45:367][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009279s)
+[2019.03.17-00.25.45:407][249]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.25.45:415][249]LogInit: FAudioDevice initialized.
+[2019.03.17-00.25.45:447][249]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.25.45:448][249]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.25.45
+[2019.03.17-00.25.45:448][249]LogWorld: Bringing up level for play took: 0.001137
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.25.45:460][249]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.25.45:460][249]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.25.45:461][249]UGameSparksModuleLog: Initialized
+[2019.03.17-00.25.45:470][249]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.935
+[2019.03.17-00.25.45:470][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.25.45:471][249]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.25.46:151][324]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.25.46:151][324]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.25.46:151][324]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.25.46:151][324]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.25.46:152][324]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.25.46:153][324]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.25.46:835][406]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"2865a5af-8a83-433e-9f9d-6f0087150aef","requestId":"0"}
+[2019.03.17-00.25.46:836][406]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.25.46:836][406]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"6WNOm3LpUT1cQm6281ucqYvM3srnq3ae2hDb+rpTRwc=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.25.46:836][406]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.25.46:935][418]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.25.46:935][418]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.25.46:935][418]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.25.46:935][418]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.25.48:805][642]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.25.48:806][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.25.48:838][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.25.48:838][642]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.25.48:874][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.25.48:929][644]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.17-00.25.49:685][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.27.29:348][468]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.27.31:853][641]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.27.31:893][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.31:893][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.27.31:893][641]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:27:31 PM)
+[2019.03.17-00.27.31:893][641]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.27.31:900][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007393s)
+[2019.03.17-00.27.31:901][641]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.27.31:901][641]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2019.03.17-00.27.31:901][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.008297s)
+[2019.03.17-00.27.31:944][641]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.27.31:953][641]LogInit: FAudioDevice initialized.
+[2019.03.17-00.27.31:984][641]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.27.31:986][641]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.27.31
+[2019.03.17-00.27.31:986][641]LogWorld: Bringing up level for play took: 0.001457
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.27.32:000][641]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.27.32:000][641]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.27.32:001][641]UGameSparksModuleLog: Initialized
+[2019.03.17-00.27.32:005][641]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.53
+[2019.03.17-00.27.32:005][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.32:006][641]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.27.32:675][715]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.27.32:675][715]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.27.32:675][715]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.27.32:675][715]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.32:676][715]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.27.32:676][715]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.27.33:333][794]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"5760bf2e-d133-4726-a2be-aae1b4603276","requestId":"0"}
+[2019.03.17-00.27.33:333][794]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.33:334][794]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"gglW6JYzeW+vV4iPxxWqI8yRDGAGDXDIceEEHVILDdA=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.27.33:334][794]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.27.33:434][806]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.27.33:434][806]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.33:434][806]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.27.33:434][806]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.27.36:724][201]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"S",
+	"userName":	"testacc1",
+	"requestId":	"1552782456_13"
+}
+[2019.03.17-00.27.36:826][213]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"240de219-d730-4cb8-b5de-5ea6ca4e4f6d","displayName":"testacc1","newPlayer":false,"requestId":"1552782456_13","userId":"5c8d93b5a13e19051375ff10"}
+[2019.03.17-00.27.36:826][213]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.27.36:829][213]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back testacc1
+[2019.03.17-00.27.36:829][213]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.27.36:887][220]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782456_14"
+}
+[2019.03.17-00.27.36:978][231]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782456_14","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.27.37:373][278]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782457_15"
+}
+[2019.03.17-00.27.37:373][278]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d93b5a13e19051375ff10",
+	"teamId":	"856716",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782457_16"
+}
+[2019.03.17-00.27.37:466][289]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782457_15","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.27.37:474][290]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782457_16"}
+[2019.03.17-00.27.39:234][501]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LeaveTeamRequest",
+	"ownerId":	"5c8d93b5a13e19051375ff10",
+	"teamId":	"856716",
+	"teamType":	"GUILD",
+	"requestId":	"1552782459_17"
+}
+[2019.03.17-00.27.39:327][512]UGameSparksModuleLog: WebSocket callback: {"@class":".LeaveTeamResponse","error":{"team":"CANNOT_LEAVE_OWNED_TEAM"},"requestId":"1552782459_17"}
+[2019.03.17-00.27.39:327][512]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782459_18"
+}
+[2019.03.17-00.27.39:427][524]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782459_18","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.27.45:139][209]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782465_19"
+}
+[2019.03.17-00.27.45:139][209]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d93b5a13e19051375ff10",
+	"teamId":	"856716",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782465_20"
+}
+[2019.03.17-00.27.45:231][220]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782465_19","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.27.45:239][221]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782465_20"}
+[2019.03.17-00.27.49:566][740]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782469_21"
+}
+[2019.03.17-00.27.49:566][740]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d93b5a13e19051375ff10",
+	"teamId":	"856716",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782469_22"
+}
+[2019.03.17-00.27.49:666][752]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782469_21","teams":[{"members":[{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true}],"owner":{"displayName":"testacc1","externalIds":{ },"id":"5c8d93b5a13e19051375ff10","online":true},"teamId":"856716","teamName":"House Anteries","teamType":"GUILD"}]}
+[2019.03.17-00.27.49:675][753]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782469_22"}
+[2019.03.17-00.27.52:527][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.52:528][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.27.52:563][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.27.52:563][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.52:601][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.27.52:663][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.17-00.27.54:193][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.27.54:228][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.54:228][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.27.54:228][278]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:27:54 PM)
+[2019.03.17-00.27.54:228][278]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.27.54:241][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012580s)
+[2019.03.17-00.27.54:241][278]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.27.54:241][278]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.03.17-00.27.54:241][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.013245s)
+[2019.03.17-00.27.54:283][278]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.27.54:292][278]LogInit: FAudioDevice initialized.
+[2019.03.17-00.27.54:320][278]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.27.54:322][278]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.27.54
+[2019.03.17-00.27.54:322][278]LogWorld: Bringing up level for play took: 0.001148
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.27.54:333][278]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.27.54:333][278]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.27.54:335][278]UGameSparksModuleLog: Initialized
+[2019.03.17-00.27.54:339][278]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.196
+[2019.03.17-00.27.54:339][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.27.54:339][278]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.27.55:005][352]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se11.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.27.55:006][352]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.27.55:006][352]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.27.55:006][352]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.55:007][352]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.27.55:007][352]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.27.55:681][433]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"23f41f31-1815-4eab-a518-d7ca1a2d0c7f","requestId":"0"}
+[2019.03.17-00.27.55:681][433]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.55:682][433]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"78qu4dx2PPm/Pf54W4T1z5+rpQJj3ZGmkZ1GXyQSCMI=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.27.55:682][433]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.27.55:784][445]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.27.55:784][445]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.27.55:784][445]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.27.55:784][445]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.28.04:398][470]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".RegistrationRequest",
+	"displayName":	"tmorg",
+	"password":	"1",
+	"userName":	"tomorg",
+	"requestId":	"1552782484_23"
+}
+[2019.03.17-00.28.04:582][492]UGameSparksModuleLog: WebSocket callback: {"@class":".RegistrationResponse","authToken":"391435c1-1412-48d2-ba41-a272696dec58","displayName":"tmorg","newPlayer":true,"requestId":"1552782484_23","userId":"5c8d9492a13e19051376424b"}
+[2019.03.17-00.28.04:582][492]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.28.04:643][499]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782484_24"
+}
+[2019.03.17-00.28.04:734][510]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782484_24"}
+[2019.03.17-00.28.08:805][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.28.11:624][336]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"1",
+	"userName":	"tmorg",
+	"requestId":	"1552782491_25"
+}
+[2019.03.17-00.28.11:725][348]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","error":{"DETAILS":"UNRECOGNISED"},"newPlayer":false,"requestId":"1552782491_25"}
+[2019.03.17-00.28.11:725][348]LogBlueprintUserMessages: [GameSparksLogin_C_1] Username or Password Incorrect
+[2019.03.17-00.28.22:119][594]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".RegistrationRequest",
+	"displayName":	"tony",
+	"password":	"S",
+	"userName":	"tony",
+	"requestId":	"1552782502_26"
+}
+[2019.03.17-00.28.22:262][611]UGameSparksModuleLog: WebSocket callback: {"@class":".RegistrationResponse","authToken":"baae7abf-1a71-4ca2-a9b6-44cc72ffbee2","displayName":"tony","newPlayer":true,"requestId":"1552782502_26","userId":"5c8d94a4a13e1905137646d2"}
+[2019.03.17-00.28.22:262][611]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.28.23:446][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.28.26:081][ 69]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"1",
+	"userName":	"tony",
+	"requestId":	"1552782506_27"
+}
+[2019.03.17-00.28.26:174][ 80]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","error":{"DETAILS":"UNRECOGNISED"},"newPlayer":false,"requestId":"1552782506_27"}
+[2019.03.17-00.28.26:174][ 80]LogBlueprintUserMessages: [GameSparksLogin_C_2] Username or Password Incorrect
+[2019.03.17-00.28.29:157][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.28.29:232][447]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"S",
+	"userName":	"tony",
+	"requestId":	"1552782509_28"
+}
+[2019.03.17-00.28.29:333][459]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"af32ef8c-261a-4d9f-a283-2bf81dc53a7f","displayName":"tony","newPlayer":false,"requestId":"1552782509_28","userId":"5c8d94a4a13e1905137646d2"}
+[2019.03.17-00.28.29:333][459]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.28.29:337][459]LogBlueprintUserMessages: [GameSparksLogin_C_2] Welcome back tony
+[2019.03.17-00.28.29:337][459]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.28.30:420][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.28.34:646][ 95]Cmd: LevelEditor.ToggleImmersive
+[2019.03.17-00.28.34:781][ 98]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.17-00.28.34:784][ 98]LogSlate: Took 0.001539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.03.17-00.28.34:786][ 98]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.17-00.28.34:788][ 98]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.17-00.28.36:988][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.28.59:172][ 16]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".CreateTeamRequest",
+	"teamId":	"802546",
+	"teamName":	"House Stark",
+	"teamType":	"GUILD",
+	"requestId":	"1552782539_29"
+}
+[2019.03.17-00.28.59:274][ 28]UGameSparksModuleLog: WebSocket callback: {"@class":".CreateTeamResponse","requestId":"1552782539_29","members":[{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true}],"owner":{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true},"teamId":"802546","teamName":"House Stark","teamType":"GUILD"}
+[2019.03.17-00.28.59:274][ 28]LogScript: Warning: Accessed None trying to read property PreviousWidget
+	Widget_HouseCreation_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.Widget_HouseCreation_C_0
+	Function /Game/Core/UI/Widgets_Social/Widget_HouseCreation.Widget_HouseCreation_C:ExecuteUbergraph_Widget_HouseCreation:0053
+[2019.03.17-00.29.04:270][621]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782544_30"
+}
+[2019.03.17-00.29.04:370][633]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782544_30","teams":[{"members":[{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true}],"owner":{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true},"teamId":"802546","teamName":"House Stark","teamType":"GUILD"}]}
+[2019.03.17-00.29.09:987][307]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782549_31"
+}
+[2019.03.17-00.29.09:987][307]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d94a4a13e1905137646d2",
+	"teamId":	"802546",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782549_32"
+}
+[2019.03.17-00.29.10:087][319]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782549_31","teams":[{"members":[{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true}],"owner":{"displayName":"tony","externalIds":{ },"id":"5c8d94a4a13e1905137646d2","online":true},"teamId":"802546","teamName":"House Stark","teamType":"GUILD"}]}
+[2019.03.17-00.29.10:096][320]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782549_32"}
+[2019.03.17-00.29.11:819][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.29.12:380][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.12:380][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.29.12:442][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.29.12:442][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.12:474][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.29.12:483][595]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.17-00.29.14:390][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.29.14:572][808]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.17-00.29.14:585][808]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.17-00.29.14:629][809]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.17-00.29.19:920][352]BlueprintLog: New page: Compile Widget_HouseMenuSelector
+[2019.03.17-00.29.22:053][579]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.29.22:084][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.22:084][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.29.22:084][579]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:29:22 PM)
+[2019.03.17-00.29.22:085][579]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.29.22:094][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009237s)
+[2019.03.17-00.29.22:095][579]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.29.22:095][579]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2019.03.17-00.29.22:095][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010126s)
+[2019.03.17-00.29.22:136][579]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.29.22:144][579]LogInit: FAudioDevice initialized.
+[2019.03.17-00.29.22:175][579]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.29.22:177][579]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.29.22
+[2019.03.17-00.29.22:177][579]LogWorld: Bringing up level for play took: 0.001132
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.29.22:189][579]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.29.22:189][579]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.29.22:190][579]UGameSparksModuleLog: Initialized
+[2019.03.17-00.29.22:193][579]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.341
+[2019.03.17-00.29.22:193][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.22:194][579]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.29.22:891][654]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.29.22:891][654]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.29.22:891][654]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.29.22:891][654]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.29.22:892][654]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.29.22:892][654]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.29.23:567][735]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"6964dc53-a599-4093-b608-c08c781fae09","requestId":"0"}
+[2019.03.17-00.29.23:567][735]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.29.23:567][735]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"xOxcOCIpSwQgD6IK32Dp6s6sx0YNmi5HHh7jOaAlsu4=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.29.23:568][735]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.29.23:667][747]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.29.23:667][747]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.29.23:667][747]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.29.23:667][747]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.29.26:872][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.29.26:940][139]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".RegistrationRequest",
+	"displayName":	"t",
+	"password":	"1",
+	"userName":	"t",
+	"requestId":	"1552782566_33"
+}
+[2019.03.17-00.29.27:074][155]UGameSparksModuleLog: WebSocket callback: {"@class":".RegistrationResponse","authToken":"a12e39be-a7c3-4c04-bd95-b521834e1b4f","displayName":"t","newPlayer":true,"requestId":"1552782566_33","userId":"5c8d94e51566940530a811f8"}
+[2019.03.17-00.29.27:074][155]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.29.27:102][158]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782567_34"
+}
+[2019.03.17-00.29.27:193][169]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782567_34"}
+[2019.03.17-00.29.29:036][390]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"1",
+	"userName":	"t",
+	"requestId":	"1552782569_35"
+}
+[2019.03.17-00.29.29:137][402]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"b97c8fd1-c422-46f9-90c4-5100835fdf09","displayName":"t","newPlayer":false,"requestId":"1552782569_35","userId":"5c8d94e51566940530a811f8"}
+[2019.03.17-00.29.29:137][402]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.29.29:140][402]LogBlueprintUserMessages: [GameSparksLogin_C_1] Welcome back t
+[2019.03.17-00.29.29:140][402]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.29.29:932][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.29.36:923][335]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".CreateTeamRequest",
+	"teamId":	"727928",
+	"teamName":	"House Lannister",
+	"teamType":	"GUILD",
+	"requestId":	"1552782576_36"
+}
+[2019.03.17-00.29.37:023][347]UGameSparksModuleLog: WebSocket callback: {"@class":".CreateTeamResponse","requestId":"1552782576_36","members":[{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true}],"owner":{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true},"teamId":"727928","teamName":"House Lannister","teamType":"GUILD"}
+[2019.03.17-00.29.42:018][946]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782582_37"
+}
+[2019.03.17-00.29.42:109][957]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782582_37","teams":[{"members":[{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true}],"owner":{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true},"teamId":"727928","teamName":"House Lannister","teamType":"GUILD"}]}
+[2019.03.17-00.29.44:244][213]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782584_38"
+}
+[2019.03.17-00.29.44:244][213]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d94e51566940530a811f8",
+	"teamId":	"727928",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782584_39"
+}
+[2019.03.17-00.29.44:343][225]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782584_38","teams":[{"members":[{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true}],"owner":{"displayName":"t","externalIds":{ },"id":"5c8d94e51566940530a811f8","online":true},"teamId":"727928","teamName":"House Lannister","teamType":"GUILD"}]}
+[2019.03.17-00.29.44:352][226]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782584_39"}
+[2019.03.17-00.29.48:505][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.29.51:003][ 19]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.51:004][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.29.51:033][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.29.51:033][ 19]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.29.51:067][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.29.51:152][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.17-00.29.59:640][609]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.30.44:266][263]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.032
+[2019.03.17-00.30.44:267][263]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/Widgets_Social/Widget_HouseMenuSelector] ([1] browsable assets)...
+[2019.03.17-00.30.44:268][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/Widgets_Social/Widget_HouseMenuSelector]
+[2019.03.17-00.30.44:299][263]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseMenuSelector_Auto45AEC794246C7C101250B26AD0D57A8F4.tmp' to 'E:/GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/UI/Widgets_Social/Widget_HouseMenuSelector_Auto4.uasset'
+[2019.03.17-00.30.44:300][263]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/UI/Widgets_Social/Widget_HouseCreation] ([1] browsable assets)...
+[2019.03.17-00.30.44:300][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/UI/Widgets_Social/Widget_HouseCreation]
+[2019.03.17-00.30.44:326][263]LogSavePackage: Moving 'E:/GoTLegends/GoTLegends/Saved/Widget_HouseCreation_Auto4D8E30C24475D170D057762811DEA4BEB.tmp' to 'E:/GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/UI/Widgets_Social/Widget_HouseCreation_Auto4.uasset'
+[2019.03.17-00.30.44:326][263]LogFileHelpers: Auto-saving content packages took 0.059
+[2019.03.17-00.33.35:745][681]BlueprintLog: New page: Compile Widget_HouseCreation
+[2019.03.17-00.33.38:534][970]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.33.38:570][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.33.38:570][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.33.38:570][970]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:33:38 PM)
+[2019.03.17-00.33.38:571][970]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.33.38:579][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009240s)
+[2019.03.17-00.33.38:580][970]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.33.38:580][970]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2019.03.17-00.33.38:580][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010103s)
+[2019.03.17-00.33.38:625][970]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.33.38:633][970]LogInit: FAudioDevice initialized.
+[2019.03.17-00.33.38:665][970]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.33.38:667][970]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.33.38
+[2019.03.17-00.33.38:668][970]LogWorld: Bringing up level for play took: 0.001507
+[2019.03.17-00.33.38:680][970]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.33.38:680][970]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.33.38:681][970]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.33.38:681][970]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.33.38:681][970]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.33.38:681][970]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.33.38:681][970]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.33.38:682][970]UGameSparksModuleLog: Initialized
+[2019.03.17-00.33.38:687][970]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.152
+[2019.03.17-00.33.38:687][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.33.38:688][970]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.33.39:366][ 45]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se11.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.33.39:366][ 45]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.33.39:366][ 45]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.33.39:367][ 45]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.33.39:368][ 45]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.33.39:368][ 45]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.33.39:742][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.33.40:050][127]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"eef68b0d-0bb0-4af3-9568-5df14c6315a8","requestId":"0"}
+[2019.03.17-00.33.40:050][127]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.33.40:051][127]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"nYbA0/Mv8tor3zFkKZUdABtU2vWXWWbCHY2HWqw/8zo=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.33.40:051][127]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.33.40:151][139]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.33.40:151][139]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.33.40:151][139]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.33.40:151][139]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.33.48:887][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.33.48:970][195]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".RegistrationRequest",
+	"displayName":	"gg",
+	"password":	"gg",
+	"userName":	"gg",
+	"requestId":	"1552782828_40"
+}
+[2019.03.17-00.33.49:104][211]UGameSparksModuleLog: WebSocket callback: {"@class":".RegistrationResponse","authToken":"50953fba-9caa-4b7e-9b4c-1f6f7d27fb3d","displayName":"gg","newPlayer":true,"requestId":"1552782828_40","userId":"5c8d95eba13e19051376a986"}
+[2019.03.17-00.33.49:104][211]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.33.49:164][218]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782829_41"
+}
+[2019.03.17-00.33.49:256][229]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782829_41"}
+[2019.03.17-00.33.50:900][426]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"gg",
+	"userName":	"gg",
+	"requestId":	"1552782830_42"
+}
+[2019.03.17-00.33.51:026][441]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"eb683d05-a1f1-4b07-bf98-8cb27c04256f","displayName":"gg","newPlayer":false,"requestId":"1552782830_42","userId":"5c8d95eba13e19051376a986"}
+[2019.03.17-00.33.51:026][441]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.33.51:029][441]LogBlueprintUserMessages: [GameSparksLogin_C_1] Welcome back gg
+[2019.03.17-00.33.51:029][441]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.33.52:137][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.33.56:285][ 71]Cmd: LevelEditor.ToggleImmersive
+[2019.03.17-00.33.57:748][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.34.03:953][966]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".CreateTeamRequest",
+	"teamId":	"465896",
+	"teamName":	"Test House",
+	"teamType":	"GUILD",
+	"requestId":	"1552782843_43"
+}
+[2019.03.17-00.34.04:054][978]UGameSparksModuleLog: WebSocket callback: {"@class":".CreateTeamResponse","requestId":"1552782843_43","members":[{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true}],"owner":{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true},"teamId":"465896","teamName":"Test House","teamType":"GUILD"}
+[2019.03.17-00.34.09:046][577]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782849_44"
+}
+[2019.03.17-00.34.09:147][589]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782849_44","teams":[{"members":[{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true}],"owner":{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true},"teamId":"465896","teamName":"Test House","teamType":"GUILD"}]}
+[2019.03.17-00.34.13:929][163]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552782853_45"
+}
+[2019.03.17-00.34.13:929][163]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8d95eba13e19051376a986",
+	"teamId":	"465896",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552782853_46"
+}
+[2019.03.17-00.34.14:030][175]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552782853_45","teams":[{"members":[{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true}],"owner":{"displayName":"gg","externalIds":{ },"id":"5c8d95eba13e19051376a986","online":true},"teamId":"465896","teamName":"Test House","teamType":"GUILD"}]}
+[2019.03.17-00.34.14:038][176]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1552782853_46"}
+[2019.03.17-00.35.46:154][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.35.46:155][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.35.46:215][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-00.35.46:215][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.35.46:251][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-00.35.46:259][224]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.17-00.37.47:106][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.37.47:995][124]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.17-00.37.48:024][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.37.48:024][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.17-00.37.48:024][124]PIE: New page: PIE session: TopDownExampleMap (Mar 16, 2019, 4:37:48 PM)
+[2019.03.17-00.37.48:024][124]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.17-00.37.48:033][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008864s)
+[2019.03.17-00.37.48:034][124]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.17-00.37.48:034][124]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2019.03.17-00.37.48:034][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009816s)
+[2019.03.17-00.37.48:075][124]LogInit: XAudio2 using 'U28E590 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.17-00.37.48:085][124]LogInit: FAudioDevice initialized.
+[2019.03.17-00.37.48:118][124]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.17-00.37.48:120][124]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2019.03.16-20.37.48
+[2019.03.17-00.37.48:120][124]LogWorld: Bringing up level for play took: 0.001337
+[2019.03.17-00.37.48:132][124]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.17-00.37.48:132][124]UGameSparksModuleLog: Starting connection terminate
+[2019.03.17-00.37.48:133][124]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.37.48:133][124]UGameSparksModuleLog: Connection terminated
+[2019.03.17-00.37.48:133][124]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.37.48:133][124]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.17-00.37.48:133][124]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.17-00.37.48:134][124]UGameSparksModuleLog: Initialized
+[2019.03.17-00.37.48:137][124]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.398
+[2019.03.17-00.37.48:137][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-00.37.48:138][124]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.37.48:824][201]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.17-00.37.48:824][201]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.17-00.37.48:824][201]UGameSparksModuleLog: Create new connection
+[2019.03.17-00.37.48:824][201]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.37.48:825][201]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.17-00.37.48:825][201]UGameSparksModuleLog: WebSocket closed
+[2019.03.17-00.37.49:484][280]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"f437b8cc-5417-492e-928f-fbdc0ed81b5a","requestId":"0"}
+[2019.03.17-00.37.49:484][280]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.37.49:484][280]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"f4a2ome4qhZADtgj70hlpW/Jd4TKnKGDE0BZpauoSq8=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"bef00ac472659f9cca6543a66f0b02fd",
+	"deviceStats":	{
+		"cpu.cores":	"8",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"32698 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.17134.648",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"3840x2160",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"7592bd42-22c7-4155-ab64-9670af697b91"
+}
+[2019.03.17-00.37.49:484][280]UGameSparksModuleLog: Handshake request sent
+[2019.03.17-00.37.49:583][292]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"7592bd42-22c7-4155-ab64-9670af697b91"}
+[2019.03.17-00.37.49:583][292]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.17-00.37.49:583][292]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.17-00.37.49:583][292]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.17-00.37.53:909][811]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1552783073_47"
+}
+[2019.03.17-00.37.54:010][823]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"f9b341d4-ae43-4ff9-95d5-d24f5c4c3097","displayName":"tonymorgan92","newPlayer":false,"requestId":"1552783073_47","userId":"5c8ac6976379c8469eef7c87"}
+[2019.03.17-00.37.54:010][823]UGameSparksModuleLog: Received auth token
+[2019.03.17-00.37.54:013][823]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.17-00.37.54:013][823]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.17-00.37.54:213][847]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552783074_48"
+}
+[2019.03.17-00.37.54:305][858]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552783074_48","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"Development Test Guild","teamType":"GUILD"}]}
+[2019.03.17-00.37.56:474][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.37.56:533][125]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552783076_49"
+}
+[2019.03.17-00.37.56:533][125]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c8ac6976379c8469eef7c87",
+	"teamId":	"1",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1552783076_50"
+}
+[2019.03.17-00.37.56:642][138]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552783076_49","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"Development Test Guild","teamType":"GUILD"}]}
+[2019.03.17-00.37.56:649][139]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","messages":[{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f9db4d7620517e93bfc","message":"the website","when":1552760733421,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f9ab4d7620517e93b61","message":"as of right now they were created through","when":1552760730448,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f90b4d7620517e9397e","message":"actually creating a guild","when":1552760720100,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f8bb4d7620517e938ad","message":"now i need to make the widget for","when":1552760715674,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f7eb4d7620517e9336e","message":"sweet","when":1552760702755,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f7ab4d7620517e92bd2","message":"seems to!","when":1552760698891,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f65b4d7620517e92558","message":"it should remember what guild youre in","when":1552760677519,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f5eb4d7620517e923df","message":"log out and log back in","when":1552760670426,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f59b4d7620517e9230a","message":"now","when":1552760665325,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f53b4d7620517e921b0","message":"yep i was just thinking that too lmao","when":1552760659254,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f50a13e19051358c8fe","message":"mm :)","when":1552760656053,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f49b4d7620517e91fda","message":"to make sure it works","when":1552760649511,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f48a13e19051358c716","message":"and auto return to the chat box on enter","when":1552760648062,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f45b4d7620517e91eb7","message":"this was just a rough setup","when":1552760645254,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f3eb4d7620517e913f9","message":"yeah i plan on it","when":1552760638712,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f3ba13e19051358baaa","message":"background with transparency","when":1552760635260,"who":"Jackimedes"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f32a13e19051358b918","message":"you should probably put the chat box in a black","when":1552760626083,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f30b4d7620517e91103","message":"sweet","when":1552760624302,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f1ca13e19051358b64c","message":"yep it's just done that for me","when":1552760604367,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f19b4d7620517e90d6e","message":"fuck i need to wrap text","when":1552760601110,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f11b4d7620517e90b79","message":"once it gets low enough it should automatically scroll","when":1552760593972,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3f10a13e19051358b408","message":"nice work","when":1552760592911,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3f04b4d7620517e90096","message":":D","when":1552760580240,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3efaa13e19051358a574","message":"ooooo real time","when":1552760570974,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3efab4d7620517e8fdf9","message":"this is cool af","when":1552760570437,"who":"tonymorgan92"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3ef3b4d7620517e8fca1","message":"sick","when":1552760563792,"who":"tonymorgan92"},{"fromId":"5c8ac68b47eb4e1e983f1e89","id":"5c8d3eeea13e19051358a266","message":"I can see it","when":1552760558182,"who":"Jackimedes"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8d3e3cb4d7620517e8bd24","message":"jack if you can see this let me know","when":1552760380786,"who":"tonymorgan92"},{"fromId":"5c8acd8947eb4e1e9842a355","id":"5c8cd002a13e1905133630e5","message":"chat is working","when":1552732162822,"who":"naddax"},{"fromId":"5c8ac6976379c8469eef7c87","id":"5c8ccfe71566940530649f23","message":"testing to make sure chat works","when":1552732135507,"who":"tonymorgan92"}],"requestId":"1552783076_50"}
+[2019.03.17-00.37.59:484][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.17-00.37.59:534][483]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552783079_51"
+}
+[2019.03.17-00.37.59:534][483]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1552783079_52"
+}
+[2019.03.17-00.37.59:643][496]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552783079_51","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"Development Test Guild","teamType":"GUILD"}]}
+[2019.03.17-00.37.59:652][497]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1552783079_52","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},{"displayName":"naddax","externalIds":{ },"id":"5c8acd8947eb4e1e9842a355","online":false},{"displayName":"Jackimedes","externalIds":{ },"id":"5c8ac68b47eb4e1e983f1e89","online":false}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c8ac6976379c8469eef7c87","online":true},"teamId":"1","teamName":"Development Test Guild","teamType":"GUILD"}]}
+[2019.03.17-00.37.59:652][497]LogBlueprintUserMessages: [Widget_HouseRoster_C_0] Has A Team: Development Test Guild
+[2019.03.17-01.22.17:630][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-01.22.17:631][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-01.22.17:665][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.17-01.22.17:666][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.17-01.22.17:700][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.17-01.22.17:753][651]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.17-01.22.33:177][439]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/Widgets_Roster/Button.Button
+[2019.03.17-01.22.52:547][263]LogEditorTransaction: Undo Add Widget
+[2019.03.17-01.23.05:090][304]BlueprintLog: New page: Compile Button
+[2019.03.17-01.23.06:964][304]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.700 s
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: 
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: Ensure condition failed: !IsGarbageCollecting() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\UMG\Private\Slate\SObjectWidget.cpp] [Line: 41]
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: SObjectWidget for 'Widget_HouseRosterIcon_C /Engine/Transient.World_12:Button_C_3.WidgetTree_0.Widget_HouseRosterIcon' destroyed while collecting garbage.  This can lead to multiple GCs being required to cleanup the object.  Possible causes might be,
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: 1) ReleaseSlateResources not being implemented for the owner of this pointer.
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: 2) You may just be holding onto some slate pointers on an actor that don't get reset until the actor is Garbage Collected.  You should avoid doing this, and instead reset those references when the actor is Destroyed.
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: Stack: 
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff98af471f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff98ac80c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff98ac9b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97c039a63 UE4Editor-UMG.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99eb6f39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99eb700e7 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99eb6f39a UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f97fc17 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f983419 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97c101c4b UE4Editor-UMG.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff985582ad1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff98555756e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9854d3f54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9854d34ae UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97c470091 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97d93df4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97c46f8ff UE4Editor-Kismet.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff97c4d05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f7829fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f885872 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f8624bf UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f949c3b UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f7394c5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f7d1db2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f7b7c7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff99f7ab25c UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9c52cd1c7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9c52c0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9c52cf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9c52bc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9e6ac6d41 USER32.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9e6ac6713 USER32.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9c52d0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff79fcc54e5 UE4Editor.exe!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff79fcd5b3c UE4Editor.exe!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff79fcd5bba UE4Editor.exe!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff79fce3dac UE4Editor.exe!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff79fce5aaa UE4Editor.exe!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9e7ca3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: [Callstack] 0x00007ff9e7f63691 ntdll.dll!UnknownFunction []
+[2019.03.17-01.23.06:964][304]LogOutputDevice: Error: 
+[2019.03.17-01.23.06:981][304]LogStats:                SubmitErrorReport -  0.017 s
