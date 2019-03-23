@@ -2678,3 +2678,1369 @@ LogInit: Object subsystem initialized
 [2019.03.23-21.08.25:160][ 80]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode3D792FCD4C547135A9FB688C8CFC4B2C.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset'
 [2019.03.23-21.08.25:164][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/MainPlayerController" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/MainPlayerController.uasset" SILENT=true
 [2019.03.23-21.08.25:206][ 80]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/MainPlayerController3A1A7F6149FA8B040890BE99015E4FDC.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/MainPlayerController.uasset'
+[2019.03.23-21.42.02:558][806]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-21.42.02:579][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.02:579][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-21.42.02:579][806]PIE: New page: PIE session: TopDownExampleMap (Mar 23, 2019, 1:42:02 PM)
+[2019.03.23-21.42.02:579][806]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.23-21.42.02:589][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009907s)
+[2019.03.23-21.42.02:590][806]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.23-21.42.02:590][806]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2019.03.23-21.42.02:590][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010893s)
+[2019.03.23-21.42.02:626][806]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-21.42.02:637][806]LogInit: FAudioDevice initialized.
+[2019.03.23-21.42.02:670][806]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.23-21.42.02:673][806]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.23-17.42.02
+[2019.03.23-21.42.02:673][806]LogWorld: Bringing up level for play took: 0.001412
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: Connection terminated
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.42.02:686][806]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.23-21.42.02:686][806]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.23-21.42.02:688][806]UGameSparksModuleLog: Initialized
+[2019.03.23-21.42.02:692][806]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap 0.586
+[2019.03.23-21.42.02:692][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.02:693][806]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.42.03:435][850]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se12.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.23-21.42.03:435][850]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.23-21.42.03:435][850]UGameSparksModuleLog: Create new connection
+[2019.03.23-21.42.03:436][850]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.03:436][850]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.42.03:436][850]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.42.04:168][894]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"32a38f42-5a5e-4b06-96df-f03fd9f351a2","requestId":"0"}
+[2019.03.23-21.42.04:168][894]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.04:169][894]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"7fYl+fw9h+7GSRjK+VW7RCTP/M156d+lmR+RlqKJhQY=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"10c8b76bc0af36bde70500ccd4bde996",
+	"deviceStats":	{
+		"cpu.cores":	"12",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"16226 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.16299.1029",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"aade83ea-e61b-40b1-9c71-cac78ab05d40"
+}
+[2019.03.23-21.42.04:169][894]UGameSparksModuleLog: Handshake request sent
+[2019.03.23-21.42.04:302][902]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"aade83ea-e61b-40b1-9c71-cac78ab05d40"}
+[2019.03.23-21.42.04:302][902]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.04:302][902]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.42.04:302][902]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.23-21.42.04:352][905]Cmd: LevelEditor.ToggleImmersive
+[2019.03.23-21.42.04:529][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-21.42.09:160][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.42.15:077][543]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1553377335_112"
+}
+[2019.03.23-21.42.15:194][550]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"8388e3f5-5be5-446d-9297-ce3b99e02476","displayName":"tonymorgan92","newPlayer":false,"requestId":"1553377335_112","userId":"5c95f2d815669405300b437f"}
+[2019.03.23-21.42.15:195][550]UGameSparksModuleLog: Received auth token
+[2019.03.23-21.42.15:195][550]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.23-21.42.15:195][550]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetPlayerInfo",
+	"requestId":	"1553377335_113"
+}
+[2019.03.23-21.42.15:195][550]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1553377335_114"
+}
+[2019.03.23-21.42.15:195][550]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetUserHeros",
+	"requestId":	"1553377335_115"
+}
+[2019.03.23-21.42.15:195][550]LogBlueprintUserMessages: [GOTGameMode_C_0] Get Heroes No Response
+[2019.03.23-21.42.15:195][550]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.23-21.42.15:328][558]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377335_113","scriptData":{"entry":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":2,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200000},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":71}}}
+[2019.03.23-21.42.15:344][559]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1553377335_114","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true},"teamId":"400739","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.23-21.42.15:361][560]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377335_115","scriptData":{"UserHeros":[]}}
+[2019.03.23-21.42.18:094][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.42.25:777][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.42.25:845][189]LogBlueprintUserMessages: [Widget_LootChestRewards_C_0] Grenn
+[2019.03.23-21.42.25:845][189]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.25:845][189]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.25:845][189]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"Grenn",
+	"requestId":	"1553377345_116"
+}
+[2019.03.23-21.42.25:978][197]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377345_116","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"Grenn","Unlocked":false,"Stars":2,"Level":1,"Shards":0,"Power":300},"id":"Grenn-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-21.42.25:979][197]LogBlueprintUserMessages: [CharDataHolder_Grenn_C_0] Grenn-5c95f2d815669405300b437f
+[2019.03.23-21.42.25:979][197]LogBlueprintUserMessages: [CharDataHolder_Grenn_C_0] Shards To Add: 25
+[2019.03.23-21.42.25:979][197]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.25:979][197]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.25:979][197]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"Grenn-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553377345_117"
+}
+[2019.03.23-21.42.25:979][197]LogBlueprintUserMessages: [CharDataHolder_Grenn_C_0] 
+[2019.03.23-21.42.26:128][206]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377345_117","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"Grenn","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300},"id":"Grenn-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-21.42.26:128][206]LogBlueprintUserMessages: [CharDataHolder_Grenn_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377345_117",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"Grenn",
+				"Unlocked":	false,
+				"Stars":	2,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	300
+			},
+			"id":	"Grenn-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-21.42.27:829][308]LogBlueprintUserMessages: [Widget_LootChestRewards_C_1] Khal Drogo
+[2019.03.23-21.42.27:829][308]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.27:829][308]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.27:829][308]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"KhalDrogo",
+	"requestId":	"1553377347_118"
+}
+[2019.03.23-21.42.27:962][316]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377347_118","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":false,"Stars":1,"Level":1,"Shards":0,"Power":180},"id":"KhalDrogo-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-21.42.27:962][316]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] KhalDrogo-5c95f2d815669405300b437f
+[2019.03.23-21.42.27:962][316]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] Shards To Add: 25
+[2019.03.23-21.42.27:962][316]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.27:962][316]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.27:962][316]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"KhalDrogo-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553377347_119"
+}
+[2019.03.23-21.42.27:962][316]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] 
+[2019.03.23-21.42.28:111][325]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377347_119","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":false,"Stars":1,"Level":1,"Shards":25,"Power":180},"id":"KhalDrogo-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-21.42.28:112][325]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377347_119",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"KhalDrogo",
+				"Unlocked":	false,
+				"Stars":	1,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	180
+			},
+			"id":	"KhalDrogo-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-21.42.29:562][412]LogBlueprintUserMessages: [Widget_LootChestRewards_C_2] Hand of the King Eddard Stark
+[2019.03.23-21.42.29:562][412]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.29:562][412]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.29:562][412]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"HOTKEddardStark",
+	"requestId":	"1553377349_120"
+}
+[2019.03.23-21.42.29:696][420]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377349_120","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"HOTKEddardStark","Unlocked":false,"Stars":4,"Level":1,"Shards":0,"Power":1255},"id":"HOTKEddardStark-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-21.42.29:696][420]LogBlueprintUserMessages: [CharDataHolder_HOTKEddardStark_C_0] HOTKEddardStark-5c95f2d815669405300b437f
+[2019.03.23-21.42.29:696][420]LogBlueprintUserMessages: [CharDataHolder_HOTKEddardStark_C_0] Shards To Add: 25
+[2019.03.23-21.42.29:696][420]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.29:696][420]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.29:696][420]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"HOTKEddardStark-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553377349_121"
+}
+[2019.03.23-21.42.29:696][420]LogBlueprintUserMessages: [CharDataHolder_HOTKEddardStark_C_0] 
+[2019.03.23-21.42.29:845][429]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377349_121","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"HOTKEddardStark","Unlocked":false,"Stars":4,"Level":1,"Shards":25,"Power":1255},"id":"HOTKEddardStark-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-21.42.29:845][429]LogBlueprintUserMessages: [CharDataHolder_HOTKEddardStark_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377349_121",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"HOTKEddardStark",
+				"Unlocked":	false,
+				"Stars":	4,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	1255
+			},
+			"id":	"HOTKEddardStark-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-21.42.31:412][523]LogBlueprintUserMessages: [Widget_LootChestRewards_C_3] Darrio Naharis
+[2019.03.23-21.42.31:412][523]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.31:412][523]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.31:412][523]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"DarrioNaharis",
+	"requestId":	"1553377351_122"
+}
+[2019.03.23-21.42.31:545][531]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377351_122","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"DarrioNaharis","Unlocked":false,"Stars":2,"Level":1,"Shards":0,"Power":300},"id":"DarrioNaharis-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-21.42.31:545][531]LogBlueprintUserMessages: [CharDataHolder_DarrioNaharis_C_0] DarrioNaharis-5c95f2d815669405300b437f
+[2019.03.23-21.42.31:545][531]LogBlueprintUserMessages: [CharDataHolder_DarrioNaharis_C_0] Shards To Add: 25
+[2019.03.23-21.42.31:545][531]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.31:545][531]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.31:545][531]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"DarrioNaharis-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553377351_123"
+}
+[2019.03.23-21.42.31:545][531]LogBlueprintUserMessages: [CharDataHolder_DarrioNaharis_C_0] 
+[2019.03.23-21.42.31:678][539]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377351_123","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"DarrioNaharis","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300},"id":"DarrioNaharis-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-21.42.31:678][539]LogBlueprintUserMessages: [CharDataHolder_DarrioNaharis_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377351_123",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"DarrioNaharis",
+				"Unlocked":	false,
+				"Stars":	2,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	300
+			},
+			"id":	"DarrioNaharis-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-21.42.33:544][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.42.33:561][652]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.23-21.42.33:561][652]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.33:561][652]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	1,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553377353_124"
+}
+[2019.03.23-21.42.33:628][656]LogBlueprintUserMessages: [Widget_LootChestRewards_C_4] Alliser Thorne
+[2019.03.23-21.42.33:628][656]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.33:628][656]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.33:628][656]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"AlliserThorne",
+	"requestId":	"1553377353_125"
+}
+[2019.03.23-21.42.33:678][659]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377353_124","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":3,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200000},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":72}}}
+[2019.03.23-21.42.33:812][667]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377353_125","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"AlliserThorne","Unlocked":false,"Stars":2,"Level":1,"Shards":0,"Power":310},"id":"AlliserThorne-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-21.42.33:812][667]LogBlueprintUserMessages: [CharDataHolder_AlliserThorne_C_0] AlliserThorne-5c95f2d815669405300b437f
+[2019.03.23-21.42.33:812][667]LogBlueprintUserMessages: [CharDataHolder_AlliserThorne_C_0] Shards To Add: 25
+[2019.03.23-21.42.33:812][667]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.33:812][667]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.33:812][667]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"AlliserThorne-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553377353_126"
+}
+[2019.03.23-21.42.33:812][667]LogBlueprintUserMessages: [CharDataHolder_AlliserThorne_C_0] 
+[2019.03.23-21.42.33:962][676]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377353_126","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"AlliserThorne","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":310},"id":"AlliserThorne-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-21.42.33:962][676]LogBlueprintUserMessages: [CharDataHolder_AlliserThorne_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377353_126",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"AlliserThorne",
+				"Unlocked":	false,
+				"Stars":	2,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	310
+			},
+			"id":	"AlliserThorne-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UnlockHero",
+	"HeroID":	"KhalDrogo",
+	"requestId":	"1553377357_127"
+}
+[2019.03.23-21.42.37:661][898]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] Shards To Remove: 15
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-21.42.37:661][898]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"KhalDrogo-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	-15,
+	"Stars":	0,
+	"requestId":	"1553377357_128"
+}
+[2019.03.23-21.42.37:662][898]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] 
+[2019.03.23-21.42.37:671][898]LogBlueprintUserMessages: [Widget_MainMenu_CharScreen_C_0] KhalDrogo-5c95f2d815669405300b437f
+[2019.03.23-21.42.37:799][906]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377357_127","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":true,"Stars":1,"Level":1,"Shards":25,"Power":180},"id":"KhalDrogo-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":3}}}
+[2019.03.23-21.42.37:799][906]LogBlueprintUserMessages: [GOTGameMode_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377357_127",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"KhalDrogo",
+				"Unlocked":	true,
+				"Stars":	1,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	180
+			},
+			"id":	"KhalDrogo-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	3
+		}
+	}
+}
+[2019.03.23-21.42.37:799][906]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Power: 180
+[2019.03.23-21.42.37:799][906]LogBlueprintUserMessages: [GOTGameMode_C_0] TCP Added:180
+[2019.03.23-21.42.37:799][906]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 180
+[2019.03.23-21.42.37:799][906]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.42.37:799][906]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	180,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	0,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553377357_129"
+}
+[2019.03.23-21.42.37:799][906]LogBlueprintUserMessages: [GOTGameMode_C_0] ID Set To:KhalDrogo-5c95f2d815669405300b437f
+[2019.03.23-21.42.37:833][908]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377357_128","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":true,"Stars":1,"Level":1,"Shards":10,"Power":180},"id":"KhalDrogo-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":4}}}
+[2019.03.23-21.42.37:833][908]LogBlueprintUserMessages: [CharDataHolder_KhalDrogo_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553377357_128",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"KhalDrogo",
+				"Unlocked":	true,
+				"Stars":	1,
+				"Level":	1,
+				"Shards":	10,
+				"Power":	180
+			},
+			"id":	"KhalDrogo-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	4
+		}
+	}
+}
+[2019.03.23-21.42.37:932][914]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377357_129","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":3,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":73}}}
+[2019.03.23-21.42.48:216][531]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.48:217][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.42.48:277][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-21.42.48:278][531]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.48:314][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.42.48:324][532]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.03.23-21.42.49:890][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-21.42.51:107][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.42.51:173][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-21.42.51:194][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.51:194][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-21.42.51:194][689]PIE: New page: PIE session: TopDownExampleMap (Mar 23, 2019, 1:42:51 PM)
+[2019.03.23-21.42.51:194][689]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.23-21.42.51:203][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008882s)
+[2019.03.23-21.42.51:204][689]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.23-21.42.51:204][689]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2019.03.23-21.42.51:204][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.009785s)
+[2019.03.23-21.42.51:238][689]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-21.42.51:249][689]LogInit: FAudioDevice initialized.
+[2019.03.23-21.42.51:279][689]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.23-21.42.51:281][689]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.23-17.42.51
+[2019.03.23-21.42.51:281][689]LogWorld: Bringing up level for play took: 0.001259
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: Connection terminated
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.42.51:294][689]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.23-21.42.51:294][689]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.23-21.42.51:295][689]UGameSparksModuleLog: Initialized
+[2019.03.23-21.42.51:299][689]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.807
+[2019.03.23-21.42.51:300][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.42.51:300][689]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.42.52:046][733]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.23-21.42.52:046][733]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.23-21.42.52:046][733]UGameSparksModuleLog: Create new connection
+[2019.03.23-21.42.52:046][733]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.52:047][733]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.42.52:047][733]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.42.52:779][777]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"117ce64a-c7c4-4ce4-b6fe-4c8d70512c71","requestId":"0"}
+[2019.03.23-21.42.52:779][777]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.52:779][777]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"sFWoWjdU+cAP7mEATeg9ROYxxmya+y7hdS3V6Jt7jes=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"10c8b76bc0af36bde70500ccd4bde996",
+	"deviceStats":	{
+		"cpu.cores":	"12",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"16226 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.16299.1029",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"aade83ea-e61b-40b1-9c71-cac78ab05d40"
+}
+[2019.03.23-21.42.52:780][777]UGameSparksModuleLog: Handshake request sent
+[2019.03.23-21.42.52:895][784]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"aade83ea-e61b-40b1-9c71-cac78ab05d40"}
+[2019.03.23-21.42.52:895][784]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.42.52:896][784]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.42.52:896][784]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.23-21.43.03:165][399]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1553377383_130"
+}
+[2019.03.23-21.43.03:282][406]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"1fbe20c1-3d4c-4e38-9d43-cd34b9a74fd9","displayName":"tonymorgan92","newPlayer":false,"requestId":"1553377383_130","userId":"5c95f2d815669405300b437f"}
+[2019.03.23-21.43.03:282][406]UGameSparksModuleLog: Received auth token
+[2019.03.23-21.43.03:283][406]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.23-21.43.03:283][406]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetPlayerInfo",
+	"requestId":	"1553377383_131"
+}
+[2019.03.23-21.43.03:283][406]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1553377383_132"
+}
+[2019.03.23-21.43.03:283][406]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetUserHeros",
+	"requestId":	"1553377383_133"
+}
+[2019.03.23-21.43.03:283][406]LogBlueprintUserMessages: [GOTGameMode_C_0] Get Heroes No Response
+[2019.03.23-21.43.03:283][406]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.23-21.43.03:416][414]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377383_131","scriptData":{"entry":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":3,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":73}}}
+[2019.03.23-21.43.03:433][415]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1553377383_132","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true},"teamId":"400739","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.23-21.43.03:449][416]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377383_133","scriptData":{"UserHeros":[{"PlayerID":"5c95f2d815669405300b437f","HeroID":"DarrioNaharis","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"DarrioNaharis-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"AlliserThorne","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":310,"ID":"AlliserThorne-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"Grenn","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"Grenn-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"HOTKEddardStark","Unlocked":false,"Stars":4,"Level":1,"Shards":25,"Power":1255,"ID":"HOTKEddardStark-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":true,"Stars":1,"Level":1,"Shards":10,"Power":180,"ID":"KhalDrogo-5c95f2d815669405300b437f"}]}}
+[2019.03.23-21.43.05:115][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.43.11:335][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.43.12:803][977]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1553377392_134"
+}
+[2019.03.23-21.43.12:803][977]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".ListTeamChatRequest",
+	"entryCount":	50,
+	"ownerId":	"5c95f2d815669405300b437f",
+	"teamId":	"400739",
+	"teamType":	"GUILD",
+	"scriptData":	{
+},
+	"requestId":	"1553377392_135"
+}
+[2019.03.23-21.43.12:919][984]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1553377392_134","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true},"teamId":"400739","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.23-21.43.12:952][986]UGameSparksModuleLog: WebSocket callback: {"@class":".ListTeamChatResponse","requestId":"1553377392_135"}
+[2019.03.23-21.43.15:569][143]Cmd: LevelEditor.ToggleImmersive
+[2019.03.23-21.43.15:751][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-21.43.16:800][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.43.20:516][434]LogBlueprintUserMessages: [Widget_Campaign1_C_0] Not Enough Energy
+[2019.03.23-21.43.22:200][535]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.23-21.43.22:200][535]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.43.22:200][535]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	1,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553377402_136"
+}
+[2019.03.23-21.43.22:318][542]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377402_136","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":4,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":74}}}
+[2019.03.23-21.43.23:033][585]LogBlueprintUserMessages: [Widget_Campaign1_C_0] Not Enough Energy
+[2019.03.23-21.43.23:383][606]LogBlueprintUserMessages: [Widget_Campaign1_C_0] Not Enough Energy
+[2019.03.23-21.43.23:533][615]LogBlueprintUserMessages: [Widget_Campaign1_C_0] Not Enough Energy
+[2019.03.23-21.43.35:917][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-21.43.38:550][516]LogBlueprintUserMessages: [Widget_Campaign1_C_1] Not Enough Energy
+[2019.03.23-21.43.41:735][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.43.41:735][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.43.41:795][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-21.43.41:795][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.43.41:832][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.43.41:842][708]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.03.23-21.43.42:709][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-21.44.14:752][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-21.44.17:268][175]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/ShopUI/Widget_OfferRewards.Widget_OfferRewards
+[2019.03.23-21.44.40:511][519]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Server Synch Remove Energy  and was replaced as a Custom Event!
+[2019.03.23-21.45.20:583][866]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-21.45.36:358][707]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-21.45.37:996][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset" SILENT=true
+[2019.03.23-21.45.38:238][726]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode05E155BA4B1ED1E4B95E74956A7FD3DC.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset'
+[2019.03.23-21.46.11:562][  6]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-21.46.11:580][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.46.11:580][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-21.46.11:580][  6]PIE: New page: PIE session: TopDownExampleMap (Mar 23, 2019, 1:46:11 PM)
+[2019.03.23-21.46.11:580][  6]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.23-21.46.11:590][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009647s)
+[2019.03.23-21.46.11:590][  6]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.23-21.46.11:591][  6]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2019.03.23-21.46.11:591][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010382s)
+[2019.03.23-21.46.11:634][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-21.46.11:645][  6]LogInit: FAudioDevice initialized.
+[2019.03.23-21.46.11:676][  6]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.23-21.46.11:678][  6]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.23-17.46.11
+[2019.03.23-21.46.11:678][  6]LogWorld: Bringing up level for play took: 0.001289
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: Connection terminated
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.46.11:690][  6]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.23-21.46.11:690][  6]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.23-21.46.11:692][  6]UGameSparksModuleLog: Initialized
+[2019.03.23-21.46.11:696][  6]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.41
+[2019.03.23-21.46.11:696][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.46.11:697][  6]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.46.12:455][ 51]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se12.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.23-21.46.12:455][ 51]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.23-21.46.12:455][ 51]UGameSparksModuleLog: Create new connection
+[2019.03.23-21.46.12:456][ 51]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.46.12:456][ 51]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-21.46.12:456][ 51]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-21.46.13:205][ 96]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"306db76b-a54c-4017-9219-4c70fc1f841e","requestId":"0"}
+[2019.03.23-21.46.13:205][ 96]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.46.13:206][ 96]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"ducuqEfeG7p80Zko6RYCxzBsrMsH/6U+3CCYyBoEwiU=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"10c8b76bc0af36bde70500ccd4bde996",
+	"deviceStats":	{
+		"cpu.cores":	"12",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"16226 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.16299.1029",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"aade83ea-e61b-40b1-9c71-cac78ab05d40"
+}
+[2019.03.23-21.46.13:206][ 96]UGameSparksModuleLog: Handshake request sent
+[2019.03.23-21.46.13:322][103]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"aade83ea-e61b-40b1-9c71-cac78ab05d40"}
+[2019.03.23-21.46.13:322][103]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-21.46.13:323][103]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-21.46.13:323][103]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.23-21.46.23:389][707]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1553377583_137"
+}
+[2019.03.23-21.46.23:505][714]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"a09d1a1d-9919-49da-b4b1-7fd9f48d87dc","displayName":"tonymorgan92","newPlayer":false,"requestId":"1553377583_137","userId":"5c95f2d815669405300b437f"}
+[2019.03.23-21.46.23:505][714]UGameSparksModuleLog: Received auth token
+[2019.03.23-21.46.23:506][714]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.23-21.46.23:506][714]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetPlayerInfo",
+	"requestId":	"1553377583_138"
+}
+[2019.03.23-21.46.23:506][714]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1553377583_139"
+}
+[2019.03.23-21.46.23:506][714]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetUserHeros",
+	"requestId":	"1553377583_140"
+}
+[2019.03.23-21.46.23:506][714]LogBlueprintUserMessages: [GOTGameMode_C_0] Get Heroes No Response
+[2019.03.23-21.46.23:506][714]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.23-21.46.23:639][722]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377583_138","scriptData":{"entry":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":4,"Gems":500000,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":74}}}
+[2019.03.23-21.46.23:655][723]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1553377583_139","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true},"teamId":"400739","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.23-21.46.23:672][724]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377583_140","scriptData":{"UserHeros":[{"PlayerID":"5c95f2d815669405300b437f","HeroID":"DarrioNaharis","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"DarrioNaharis-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"AlliserThorne","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":310,"ID":"AlliserThorne-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"Grenn","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"Grenn-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"HOTKEddardStark","Unlocked":false,"Stars":4,"Level":1,"Shards":25,"Power":1255,"ID":"HOTKEddardStark-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":true,"Stars":1,"Level":1,"Shards":10,"Power":180,"ID":"KhalDrogo-5c95f2d815669405300b437f"}]}}
+[2019.03.23-21.46.29:859][ 94]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.46.29:860][ 94]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	0,
+	"MaxEnergy":	0,
+	"Gems":	15710,
+	"Gold":	0,
+	"requestId":	"1553377589_141"
+}
+[2019.03.23-21.46.29:993][102]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377589_141","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":4,"Gems":515710,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":75}}}
+[2019.03.23-21.46.42:749][562]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.23-21.46.42:749][562]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-21.46.42:749][562]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	1,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553377602_142"
+}
+[2019.03.23-21.46.42:883][570]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553377602_142","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":5,"Gems":515710,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":76}}}
+[2019.03.23-21.47.00:693][293]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Core/UI/ShopUI/Widget_OfferRewards.Widget_OfferRewards
+[2019.03.23-21.47.07:016][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.47.07:017][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.47.07:056][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-21.47.07:056][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-21.47.07:090][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-21.47.07:121][653]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.03.23-21.47.35:848][ 82]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  ServerSynch - Add Gems  and was replaced as a Custom Event!
+[2019.03.23-21.47.57:748][354]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-21.48.08:281][814]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-21.48.32:981][208]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.042
+[2019.03.23-21.48.32:983][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Blueprints/GOTGameMode] ([1] browsable assets)...
+[2019.03.23-21.48.32:983][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Blueprints/GOTGameMode]
+[2019.03.23-21.48.32:983][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/Blueprints/GOTGameMode_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-21.48.33:249][208]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode_Auto47DD010C04BD7E8089BF14EBAC394DD74.tmp' to '../../../../../../GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/Blueprints/GOTGameMode_Auto4.uasset'
+[2019.03.23-21.48.33:250][208]LogFileHelpers: Auto-saving content packages took 0.268
+[2019.03.23-21.49.59:721][396]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-21.58.33:477][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Core/Maps/TopDownExampleMap' took 0.039
+[2019.03.23-21.58.33:479][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/Blueprints/GOTGameMode] ([1] browsable assets)...
+[2019.03.23-21.58.33:479][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/Blueprints/GOTGameMode]
+[2019.03.23-21.58.33:479][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/Blueprints/GOTGameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2019.03.23-21.58.33:726][110]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode_Auto5DC5BB4C04D63807323EB648A146AD596.tmp' to '../../../../../../GoTLegends/GoTLegends/Saved/Autosaves/Game/Core/Blueprints/GOTGameMode_Auto5.uasset'
+[2019.03.23-21.58.33:728][110]LogFileHelpers: Auto-saving content packages took 0.249
+[2019.03.23-22.13.31:118][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-22.13.31:139][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.13.31:140][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-22.13.31:140][949]PIE: New page: PIE session: TopDownExampleMap (Mar 23, 2019, 2:13:31 PM)
+[2019.03.23-22.13.31:140][949]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.23-22.13.31:149][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009579s)
+[2019.03.23-22.13.31:150][949]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.23-22.13.31:150][949]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2019.03.23-22.13.31:150][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.010425s)
+[2019.03.23-22.13.31:184][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-22.13.31:196][949]LogInit: FAudioDevice initialized.
+[2019.03.23-22.13.31:224][949]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.23-22.13.31:226][949]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.23-18.13.31
+[2019.03.23-22.13.31:226][949]LogWorld: Bringing up level for play took: 0.001399
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: Connection terminated
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-22.13.31:239][949]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.23-22.13.31:239][949]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.23-22.13.31:240][949]UGameSparksModuleLog: Initialized
+[2019.03.23-22.13.31:244][949]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.862
+[2019.03.23-22.13.31:244][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.13.31:245][949]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-22.13.32:005][994]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se13.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.23-22.13.32:005][994]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.23-22.13.32:005][994]UGameSparksModuleLog: Create new connection
+[2019.03.23-22.13.32:006][994]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.13.32:007][994]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-22.13.32:007][994]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-22.13.32:756][ 39]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"df3b8c78-a685-4a02-b39c-583109f1fa61","requestId":"0"}
+[2019.03.23-22.13.32:756][ 39]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.13.32:757][ 39]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"A/rGHiGQfK7Rjf0zoJ7VqTf0/dRZFMrGKhdVaGNcW/Y=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"10c8b76bc0af36bde70500ccd4bde996",
+	"deviceStats":	{
+		"cpu.cores":	"12",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"16226 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.16299.1029",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"aade83ea-e61b-40b1-9c71-cac78ab05d40"
+}
+[2019.03.23-22.13.32:757][ 39]UGameSparksModuleLog: Handshake request sent
+[2019.03.23-22.13.32:872][ 46]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"aade83ea-e61b-40b1-9c71-cac78ab05d40"}
+[2019.03.23-22.13.32:873][ 46]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.13.32:873][ 46]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-22.13.32:873][ 46]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.23-22.13.34:321][133]Cmd: LevelEditor.ToggleImmersive
+[2019.03.23-22.13.34:511][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-22.13.40:611][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-22.13.47:543][920]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticationRequest",
+	"password":	"Sweeps0508",
+	"userName":	"tonymorgan92",
+	"requestId":	"1553379227_143"
+}
+[2019.03.23-22.13.47:661][927]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticationResponse","authToken":"c2bd39f1-ba42-40c9-b0d8-97995c66d4c0","displayName":"tonymorgan92","newPlayer":false,"requestId":"1553379227_143","userId":"5c95f2d815669405300b437f"}
+[2019.03.23-22.13.47:661][927]UGameSparksModuleLog: Received auth token
+[2019.03.23-22.13.47:662][927]LogBlueprintUserMessages: [GameSparksLogin_C_0] Welcome back tonymorgan92
+[2019.03.23-22.13.47:662][927]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetPlayerInfo",
+	"requestId":	"1553379227_144"
+}
+[2019.03.23-22.13.47:662][927]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".GetMyTeamsRequest",
+	"requestId":	"1553379227_145"
+}
+[2019.03.23-22.13.47:662][927]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"GetUserHeros",
+	"requestId":	"1553379227_146"
+}
+[2019.03.23-22.13.47:662][927]LogBlueprintUserMessages: [GOTGameMode_C_0] Get Heroes No Response
+[2019.03.23-22.13.47:662][927]UGameSparksModuleLog: New UserId init persistent queue
+[2019.03.23-22.13.47:827][937]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379227_144","scriptData":{"entry":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":5,"Gems":515710,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":76}}}
+[2019.03.23-22.13.47:844][938]UGameSparksModuleLog: WebSocket callback: {"@class":".GetMyTeamsResponse","requestId":"1553379227_145","teams":[{"members":[{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true}],"owner":{"displayName":"tonymorgan92","externalIds":{ },"id":"5c95f2d815669405300b437f","online":true},"teamId":"400739","teamName":"House Skywalker","teamType":"GUILD"}]}
+[2019.03.23-22.13.47:860][939]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379227_146","scriptData":{"UserHeros":[{"PlayerID":"5c95f2d815669405300b437f","HeroID":"DarrioNaharis","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"DarrioNaharis-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"AlliserThorne","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":310,"ID":"AlliserThorne-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"Grenn","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":300,"ID":"Grenn-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"HOTKEddardStark","Unlocked":false,"Stars":4,"Level":1,"Shards":25,"Power":1255,"ID":"HOTKEddardStark-5c95f2d815669405300b437f"},{"PlayerID":"5c95f2d815669405300b437f","HeroID":"KhalDrogo","Unlocked":true,"Stars":1,"Level":1,"Shards":10,"Power":180,"ID":"KhalDrogo-5c95f2d815669405300b437f"}]}}
+[2019.03.23-22.13.51:527][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-22.14.00:365][688]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-22.14.00:365][688]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	0,
+	"MaxEnergy":	0,
+	"Gems":	15710,
+	"Gold":	0,
+	"requestId":	"1553379240_147"
+}
+[2019.03.23-22.14.00:499][696]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379240_147","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":5,"Gems":531420,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":77}}}
+[2019.03.23-22.14.02:114][793]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.23-22.14.02:115][793]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-22.14.02:115][793]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	1,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553379242_148"
+}
+[2019.03.23-22.14.02:248][801]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379242_148","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":6,"Gems":531420,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":78}}}
+[2019.03.23-22.14.04:415][931]LogBlueprintUserMessages: [Widget_LootChestRewards_C_0] Cersei Lannister
+[2019.03.23-22.14.04:415][931]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-22.14.04:415][931]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-22.14.04:415][931]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"AssociateHero",
+	"HeroID":	"CerseiLannister",
+	"requestId":	"1553379244_149"
+}
+[2019.03.23-22.14.04:548][939]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379244_149","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"CerseiLannister","Unlocked":false,"Stars":2,"Level":1,"Shards":0,"Power":320},"id":"CerseiLannister-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":1}}}
+[2019.03.23-22.14.04:549][939]LogBlueprintUserMessages: [CharDataHolder_CerceiLannister_C_0] CerseiLannister-5c95f2d815669405300b437f
+[2019.03.23-22.14.04:549][939]LogBlueprintUserMessages: [CharDataHolder_CerceiLannister_C_0] Shards To Add: 25
+[2019.03.23-22.14.04:549][939]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-22.14.04:549][939]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest_SetString
+[2019.03.23-22.14.04:549][939]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"UpdateUserHeroDetails",
+	"UserHeroID":	"CerseiLannister-5c95f2d815669405300b437f",
+	"Level":	0,
+	"Power":	0,
+	"Shards":	25,
+	"Stars":	0,
+	"requestId":	"1553379244_150"
+}
+[2019.03.23-22.14.04:549][939]LogBlueprintUserMessages: [CharDataHolder_CerceiLannister_C_0] 
+[2019.03.23-22.14.04:699][948]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379244_150","scriptData":{"UserHero":{"data":{"PlayerID":"5c95f2d815669405300b437f","HeroID":"CerseiLannister","Unlocked":false,"Stars":2,"Level":1,"Shards":25,"Power":320},"id":"CerseiLannister-5c95f2d815669405300b437f","ttl":0,"type":"UserHero","version":2}}}
+[2019.03.23-22.14.04:699][948]LogBlueprintUserMessages: [CharDataHolder_CerceiLannister_C_0] {
+	"@class":	".LogEventResponse",
+	"requestId":	"1553379244_150",
+	"scriptData":	{
+		"UserHero":	{
+			"data":	{
+				"PlayerID":	"5c95f2d815669405300b437f",
+				"HeroID":	"CerseiLannister",
+				"Unlocked":	false,
+				"Stars":	2,
+				"Level":	1,
+				"Shards":	25,
+				"Power":	320
+			},
+			"id":	"CerseiLannister-5c95f2d815669405300b437f",
+			"ttl":	0,
+			"type":	"UserHero",
+			"version":	2
+		}
+	}
+}
+[2019.03.23-22.15.38:181][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-22.19.03:479][  2]LogBlueprintUserMessages: [GOTGameMode_C_0] Levels To Add: 
+[2019.03.23-22.19.03:479][  2]UGameSparksModuleLog: Warning: UGameSparksLogEventData::AddToLogEvent_LogEventRequest
+[2019.03.23-22.19.03:479][  2]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".LogEventRequest",
+	"eventKey":	"updatePlayerData",
+	"Level":	0,
+	"TotalCollectionPower":	0,
+	"XP":	0,
+	"MaxXP":	0,
+	"StrongestTeamPower":	0,
+	"HeroesCollected":	0,
+	"Energy":	1,
+	"MaxEnergy":	0,
+	"Gems":	0,
+	"Gold":	0,
+	"requestId":	"1553379543_151"
+}
+[2019.03.23-22.19.03:813][  3]UGameSparksModuleLog: WebSocket callback: {"@class":".LogEventResponse","requestId":"1553379543_151","scriptData":{"playerInfo":{"data":{"Gold":200000,"MaxEnergy":120,"Energy":7,"Gems":531420,"HeroesCollected":5,"MaxXP":500,"StrongestTeamPower":200000,"XP":500,"Level":10,"TotalCollectionPower":200180},"id":"5c95f2d815669405300b437f","ttl":0,"type":"playerInfo","version":79}}}
+[2019.03.23-22.43.18:551][535]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.43.18:553][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-22.43.18:647][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-22.43.18:647][535]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.43.18:703][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-22.43.18:718][536]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.03.23-22.43.20:472][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.23-22.43.22:265][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.23-22.45.11:251][353]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-22.45.30:103][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset" SILENT=true
+[2019.03.23-22.45.31:112][512]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode7890DE474875FB12EECC35AFD4699196.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset'
+[2019.03.23-22.46.02:811][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset" SILENT=true
+[2019.03.23-22.46.03:258][246]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameMode94D6B91C4E413F1C79288FBAAB770F51.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset'
+[2019.03.23-22.52.22:491][841]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Archlich Studios\Downloads\1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.wav)
+[2019.03.23-22.53.15:051][518]BlueprintLog: New page: Compile GOTGameMode
+[2019.03.23-22.53.19:744][558]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.23-22.53.19:780][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.53.19:780][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.23-22.53.19:780][558]PIE: New page: PIE session: TopDownExampleMap (Mar 23, 2019, 2:53:19 PM)
+[2019.03.23-22.53.19:780][558]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_TopDownExampleMap
+[2019.03.23-22.53.19:796][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015770s)
+[2019.03.23-22.53.19:797][558]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.03.23-22.53.19:797][558]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2019.03.23-22.53.19:797][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/TopDownExampleMap.TopDownExampleMap to /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.017034s)
+[2019.03.23-22.53.19:876][558]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.23-22.53.19:896][558]LogInit: FAudioDevice initialized.
+[2019.03.23-22.53.19:927][558]LogLoad: Game class is 'GOTGameMode_C'
+[2019.03.23-22.53.19:931][558]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2019.03.23-18.53.19
+[2019.03.23-22.53.19:931][558]LogWorld: Bringing up level for play took: 0.002127
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: Warning: GameSparks::Shutdown
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: Connection terminated
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-22.53.19:944][558]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Unavailable
+[2019.03.23-22.53.19:944][558]UGameSparksModuleLog: Warning: GameSparks::Initialize
+[2019.03.23-22.53.19:947][558]UGameSparksModuleLog: Initialized
+[2019.03.23-22.53.19:954][558]PIE: Play in editor start time for /Game/Core/Maps/UEDPIE_0_TopDownExampleMap -0.145
+[2019.03.23-22.53.19:954][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.53.19:955][558]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-22.53.19:978][558]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme...
+[2019.03.23-22.53.19:984][558]LogTemp: Couldn't find amount to resample to.
+[2019.03.23-22.53.22:816][558]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 18610200 while cooking SoundWave /Game/Core/1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.
+[2019.03.23-22.53.22:855][560]UGameSparksModuleLog: WebSocket callback: {"@class": ".AuthenticatedConnectResponse","connectUrl": "wss://gsp-auw000-se12.gamesparks.net/ws/device/p378145LFUDz","requestId": "0"}
+[2019.03.23-22.53.22:855][560]UGameSparksModuleLog: Received new connection url from gamesparks backend. Establishing new connection now.
+[2019.03.23-22.53.22:855][560]UGameSparksModuleLog: Create new connection
+[2019.03.23-22.53.22:856][560]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.53.22:857][560]UGameSparksModuleLog: Connection stopped, deleting it
+[2019.03.23-22.53.22:857][560]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-22.53.23:594][582]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","nonce":"c7feee51-cb5b-4040-aea1-9a17ce5b4151","requestId":"0"}
+[2019.03.23-22.53.23:594][582]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.53.23:595][582]UGameSparksModuleLog: Send immediate request: {
+	"@class":	".AuthenticatedConnectRequest",
+	"hmac":	"jMiH7JSgWZg4DysF88Tcrh9fnuamu+/QHKR3PUwWly0=",
+	"os":	"Windows",
+	"platform":	"Windows",
+	"deviceId":	"10c8b76bc0af36bde70500ccd4bde996",
+	"deviceStats":	{
+		"cpu.cores":	"12",
+		"cpu.vendor":	"Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz",
+		"engine":	"Unreal Engine",
+		"engine.version":	"4.20.0",
+		"manufacturer":	"Microsoft",
+		"memory":	"16226 MB",
+		"model":	"PC",
+		"os.name":	"Windows",
+		"os.version":	"10.0.16299.1029",
+		"os.version.major":	"10",
+		"os.version.major.minor":	"10.0",
+		"resolution":	"1920x1080",
+		"gssdk":	"1.1.23.0"
+	},
+	"sessionId":	"aade83ea-e61b-40b1-9c71-cac78ab05d40"
+}
+[2019.03.23-22.53.23:595][582]UGameSparksModuleLog: Handshake request sent
+[2019.03.23-22.53.23:727][586]UGameSparksModuleLog: WebSocket callback: {"@class":".AuthenticatedConnectResponse","requestId":"0","sessionId":"aade83ea-e61b-40b1-9c71-cac78ab05d40"}
+[2019.03.23-22.53.23:727][586]UGameSparksModuleLog: Handle authentication connect response with immediate handshake
+[2019.03.23-22.53.23:728][586]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-22.53.23:728][586]LogBlueprintUserMessages: [GOTGameMode_C_0] Server Status: Available
+[2019.03.23-22.53.35:694][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.53.35:694][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-22.53.35:734][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.23-22.53.35:735][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/Core/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2019.03.23-22.53.35:789][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.23-22.53.35:810][890]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.03.23-22.54.22:348][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-22.54.22:749][256]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMap67FB3A1A4BD12F56AA4420997F0925D3.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap'
+[2019.03.23-22.54.22:777][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.03.23-22.54.22:919][256]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMap_BuiltData069BE2A144C9210FA357E788518AD9BC.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.23-22.56.21:541][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-22.56.21:930][446]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMap123AB6784F1CF85E14BB5CB49F04B0D7.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap'
+[2019.03.23-22.56.21:957][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.03.23-22.56.22:080][446]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMap_BuiltDataF2C3619247DF4F5A6DB3FA90152C922A.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.23-23.10.48:092][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.23-23.10.48:607][599]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMapB6D5E99B43C7F68CE93D67890E2C7950.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap.umap'
+[2019.03.23-23.10.48:633][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2019.03.23-23.10.48:757][599]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/TopDownExampleMap_BuiltData90869EE940F55EBE6CE65CA05D815369.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Maps/TopDownExampleMap_BuiltData.uasset'
+[2019.03.23-23.10.52:836][649]LogSlate: Window 'Save Content' being destroyed
+[2019.03.23-23.10.52:968][649]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/1-TV_Themes_-_Game_Of_Thrones_Ma93CA3DF94D2AF759A46230BBD06FCAE1.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/1-TV_Themes_-_Game_Of_Thrones_Main_Title_Theme.uasset'
+[2019.03.23-23.10.52:975][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Blueprints/GOTGameMode" FILE="../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset" SILENT=true
+[2019.03.23-23.10.53:461][649]LogSavePackage: Moving '../../../../../../GoTLegends/GoTLegends/Saved/GOTGameModeAF2E25544A184D56B106A5854E0491B2.tmp' to '../../../../../../GoTLegends/GoTLegends/Content/Core/Blueprints/GOTGameMode.uasset'
+[2019.03.23-23.10.53:756][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.23-23.10.53:918][649]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.23-23.10.54:103][649]LogSlate: Window 'Widget_OfferRewards' being destroyed
+[2019.03.23-23.10.54:166][649]LogSlate: Window 'GoTLegends - Unreal Editor' being destroyed
+[2019.03.23-23.10.54:167][649]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.23-23.10.54:439][650]Cmd: QUIT_EDITOR
+[2019.03.23-23.10.55:395][650]LogExit: Preparing to exit.
+[2019.03.23-23.10.56:421][650]LogExit: Editor shut down
+[2019.03.23-23.10.56:423][650]LogExit: Transaction tracking system shut down
+[2019.03.23-23.10.57:419][650]LogExit: Object subsystem successfully closed.
+[2019.03.23-23.10.57:461][650]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.23-23.10.57:469][650]LogD3D11RHI: Shutdown
+[2019.03.23-23.10.57:469][650]LogD3D11RHI: CleanupD3DDevice
+[2019.03.23-23.10.57:477][650]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module SequencerWidgets (624)
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module BlueprintGraph (618)
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (616)
+[2019.03.23-23.10.57:492][650]LogModuleManager: Shutting down and abandoning module SceneOutliner (614)
+[2019.03.23-23.10.57:493][650]LogModuleManager: Shutting down and abandoning module AddContentDialog (612)
+[2019.03.23-23.10.57:498][650]LogModuleManager: Shutting down and abandoning module WidgetCarousel (611)
+[2019.03.23-23.10.57:498][650]LogModuleManager: Shutting down and abandoning module EditorWidgets (608)
+[2019.03.23-23.10.57:498][650]LogModuleManager: Shutting down and abandoning module CollectionManager (606)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module StatsViewer (604)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module FoliageEdit (602)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module LandscapeEditor (600)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module MeshPaintMode (598)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (596)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module ActorPickerMode (594)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module GeometryMode (592)
+[2019.03.23-23.10.57:499][650]LogModuleManager: Shutting down and abandoning module TextureAlignMode (590)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module BspMode (588)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (586)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (584)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AutomationWorker (582)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (580)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (576)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (574)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module PlacementMode (573)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MaterialEditor (572)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (568)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (566)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (564)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (562)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (560)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (558)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (556)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (554)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (552)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (550)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.03.23-23.10.57:500][650]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.03.23-23.10.57:501][650]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2019.03.23-23.10.59:072][650]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2019.03.23-23.10.59:073][650]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2019.03.23-23.10.59:139][650]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module DesktopPlatform (443)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module ModuleUI (440)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module MovieSceneTools (438)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module OutputLog (436)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module GammaUI (434)
+[2019.03.23-23.10.59:160][650]LogModuleManager: Shutting down and abandoning module Documentation (432)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.03.23-23.10.59:162][650]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.03.23-23.10.59:242][650]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (376)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.03.23-23.10.59:243][650]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.03.23-23.10.59:248][650]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.03.23-23.10.59:248][650]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.03.23-23.10.59:248][650]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.03.23-23.10.59:248][650]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (346)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module DatasmithContent (344)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2019.03.23-23.10.59:249][650]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.03.23-23.10.59:250][650]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (312)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (310)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (308)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module Paper2DEditor (306)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module MeshPaint (305)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module GoTLegends (302)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.03.23-23.10.59:251][650]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.03.23-23.10.59:353][650]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (280)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module GameSparks (278)
+[2019.03.23-23.10.59:453][650]UGameSparksModuleLog: Starting connection terminate
+[2019.03.23-23.10.59:453][650]UGameSparksModuleLog: WebSocket closed
+[2019.03.23-23.10.59:453][650]UGameSparksModuleLog: Connection terminated
+[2019.03.23-23.10.59:453][650]UGameSparksModuleLog: Warning: GameSparks::GameSparksAvailable_Static
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.23-23.10.59:453][650]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.23-23.10.59:455][650]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.23-23.10.59:455][650]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.23-23.10.59:456][650]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.23-23.10.59:456][650]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.23-23.10.59:456][650]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.23-23.10.59:459][650]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.23-23.10.59:460][650]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.23-23.10.59:460][650]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.23-23.10.59:460][650]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.23-23.10.59:460][650]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.23-23.10.59:460][650]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.03.23-23.10.59:463][650]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.03.23-23.10.59:469][650]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.03.23-23.10.59:470][650]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.03.23-23.10.59:474][650]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.03.23-23.10.59:475][650]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.03.23-23.10.59:530][650]LogDerivedDataCache: Shutdown
+[2019.03.23-23.10.59:531][650]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.03.23-23.10.59:531][650]LogXGEController: Cleaning working directory: C:/Users/Archlich Studios/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.23-23.10.59:531][650]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.03.23-23.10.59:531][650]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.03.23-23.10.59:531][650]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.03.23-23.10.59:531][650]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.03.23-23.10.59:532][650]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.03.23-23.10.59:533][650]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.03.23-23.10.59:533][650]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.03.23-23.10.59:533][650]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.03.23-23.10.59:533][650]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.03.23-23.10.59:544][650]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.03.23-23.10.59:544][650]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.03.23-23.10.59:551][650]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.03.23-23.10.59:551][650]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.03.23-23.10.59:602][650]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.03.23-23.10.59:603][650]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.03.23-23.10.59:604][650]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.03.23-23.10.59:604][650]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.03.23-23.10.59:631][650]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.03.23-23.10.59:631][650]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.03.23-23.10.59:631][650]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6358BD2-47A4-B1BA-54BF-08AB0F8AE5CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=23a9945d4cf4aa7026ea519349c83a46%7C1b0d1587ca424623a9633c812948354e%7C2f4f4ce3-b2b0-40c5-bd3e-13c83a2fb140&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.23-23.10.59:631][650]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6358BD2-47A4-B1BA-54BF-08AB0F8AE5CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=23a9945d4cf4aa7026ea519349c83a46%7C1b0d1587ca424623a9633c812948354e%7C2f4f4ce3-b2b0-40c5-bd3e-13c83a2fb140&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.23-23.10.59:635][650]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.03.23-23.10.59:637][650]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.03.23-23.10.59:637][650]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.23-23.10.59:638][650]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.23-23.10.59:642][650]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.23-23.10.59:642][650]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.23-23.10.59:642][650]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.23-23.10.59:642][650]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.23-23.10.59:643][650]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.23-23.10.59:657][650]LogExit: Exiting.
+[2019.03.23-23.10.59:673][650]Log file closed, 03/23/19 19:10:59
